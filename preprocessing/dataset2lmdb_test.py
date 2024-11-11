@@ -30,8 +30,13 @@ def create_lmdb_dataset(source_folder, lmdb_path, dataset_name, map_size):
                 print(file)
                 image_path = os.path.join(root, file)
                 # 生成相对路径键
-                relative_path = f"{dataset_name}\\" + os.path.relpath(image_path, source_folder)
-                key = relative_path.encode('utf-8')
+                # relative_path = f"{dataset_name}\\" + os.path.relpath(image_path, source_folder)
+                # key = relative_path.encode('utf-8')
+
+                relative_path = os.path.join(dataset_name, os.path.relpath(image_path, source_folder))
+                key = relative_path.replace(os.sep, '/').encode('utf-8')  # Normalize to '/' for consistency
+
+                # print(f'Path key:{relative_path}')
                 # txn.delete(key)
                 # relative_path = f"{dataset_name}\\original_sequences" + os.path.relpath(image_path, source_folder)
                 # key = relative_path.encode('utf-8')
@@ -73,7 +78,7 @@ args = parser.parse_args()
 
 if __name__ == '__main__':
     # from config.yaml load parameters
-    yaml_path = './preprocessing/config.yaml'
+    yaml_path = './config.yaml'
     # open the yaml file
     try:
         with open(yaml_path, 'r') as f:

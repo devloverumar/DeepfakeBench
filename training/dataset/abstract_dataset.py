@@ -304,9 +304,17 @@ class DeepfakeAbstractBaseDataset(data.Dataset):
         elif self.lmdb:
             with self.env.begin(write=False) as txn:
                 # transfer the path format from rgb-path to lmdb-key
-                if file_path[0]=='.':
-                    file_path=file_path.replace('./datasets\\','')
+                # if file_path[0]=='.':
+                #     file_path=file_path.replace('./datasets\\','')
 
+                # # Normalize the file_path to match the LMDB key format
+                file_path = file_path.lstrip('./')  # Remove any leading './' if present
+                file_path = file_path.lstrip('Datasets/')
+                # file_path = file_path.replace('\\', '/')  # Convert backslashes to forward slashes
+                # file_path = os.path.join(dataset_name, file_path)  # Prepend dataset name
+                # file_path = file_path.encode('utf-8')  # Encode to match LMDB key format
+                print(f"File path: {file_path}")
+        
                 image_bin = txn.get(file_path.encode())
                 image_buf = np.frombuffer(image_bin, dtype=np.uint8)
                 img = cv2.imdecode(image_buf, cv2.IMREAD_COLOR)

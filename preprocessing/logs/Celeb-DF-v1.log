@@ -1,0 +1,1397 @@
+2024-11-11 10:05:25,268 - ERROR - Dataset path does not exist: ../Research/Datasets/Celeb-DF-v1
+2024-11-11 10:05:56,160 - ERROR - Dataset path does not exist: ../Research/Datasets/Celeb-DF-v1
+2024-11-11 10:06:06,616 - ERROR - Dataset path does not exist: ../../Research/Datasets/Celeb-DF-v1
+2024-11-11 10:06:24,010 - INFO - 158 videos found in ../../../Research/Datasets/Celeb-DF-v1/Celeb-real
+2024-11-11 10:06:30,212 - WARNING - No faces in frame 4 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:30,796 - WARNING - No faces in frame 0 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id11_0004.mp4
+2024-11-11 10:06:30,918 - WARNING - No faces in frame 9 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:31,001 - WARNING - No faces in frame 11 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id11_0004.mp4
+2024-11-11 10:06:31,136 - WARNING - No faces in frame 13 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:31,350 - WARNING - No faces in frame 18 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:31,550 - WARNING - No faces in frame 23 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:31,836 - WARNING - No faces in frame 27 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:32,104 - WARNING - No faces in frame 32 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:32,349 - WARNING - No faces in frame 37 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:32,605 - WARNING - No faces in frame 41 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:33,093 - WARNING - No faces in frame 168 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id11_0000.mp4
+2024-11-11 10:06:33,124 - WARNING - No faces in frame 66 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0006.mp4
+2024-11-11 10:06:33,180 - WARNING - No faces in frame 51 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:33,295 - WARNING - No faces in frame 71 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0006.mp4
+2024-11-11 10:06:33,653 - WARNING - No faces in frame 60 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:33,930 - WARNING - No faces in frame 65 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:34,156 - WARNING - No faces in frame 69 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:34,362 - WARNING - No faces in frame 74 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:34,515 - WARNING - No faces in frame 78 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:34,739 - WARNING - No faces in frame 83 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:34,912 - WARNING - No faces in frame 88 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:35,170 - WARNING - No faces in frame 92 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:35,422 - WARNING - No faces in frame 97 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:35,646 - WARNING - No faces in frame 102 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:35,812 - WARNING - No faces in frame 106 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:35,954 - WARNING - No faces in frame 372 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id11_0000.mp4
+2024-11-11 10:06:36,183 - INFO - Current time: 2024-11-11 10:06:36
+2024-11-11 10:06:36,294 - WARNING - No faces in frame 111 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:36,596 - WARNING - No faces in frame 116 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:36,791 - WARNING - No faces in frame 120 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:37,007 - WARNING - No faces in frame 125 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:37,384 - INFO - Current time: 2024-11-11 10:06:37
+2024-11-11 10:06:37,447 - INFO - Current time: 2024-11-11 10:06:37
+2024-11-11 10:06:37,705 - WARNING - No faces in frame 130 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:37,900 - WARNING - No faces in frame 134 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:38,117 - INFO - Current time: 2024-11-11 10:06:38
+2024-11-11 10:06:38,117 - WARNING - No faces in frame 139 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:38,392 - WARNING - No faces in frame 144 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-11-11 10:06:38,620 - INFO - Current time: 2024-11-11 10:06:38
+2024-11-11 10:06:39,630 - INFO - Current time: 2024-11-11 10:06:39
+2024-11-11 10:06:40,384 - INFO - Current time: 2024-11-11 10:06:40
+2024-11-11 10:06:41,036 - INFO - Current time: 2024-11-11 10:06:41
+2024-11-11 10:06:41,217 - INFO - Current time: 2024-11-11 10:06:41
+2024-11-11 10:06:42,081 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:42,344 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:42,344 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:42,403 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:42,573 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:42,734 - WARNING - No faces in frame 350 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0003.mp4
+2024-11-11 10:06:42,932 - INFO - Current time: 2024-11-11 10:06:42
+2024-11-11 10:06:43,312 - INFO - Current time: 2024-11-11 10:06:43
+2024-11-11 10:06:43,470 - INFO - Current time: 2024-11-11 10:06:43
+2024-11-11 10:06:43,874 - INFO - Current time: 2024-11-11 10:06:43
+2024-11-11 10:06:43,878 - WARNING - No faces in frame 501 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id10_0007.mp4
+2024-11-11 10:06:44,112 - INFO - Current time: 2024-11-11 10:06:44
+2024-11-11 10:06:44,332 - INFO - Current time: 2024-11-11 10:06:44
+2024-11-11 10:06:44,702 - INFO - Current time: 2024-11-11 10:06:44
+2024-11-11 10:06:44,901 - INFO - Current time: 2024-11-11 10:06:44
+2024-11-11 10:06:44,901 - INFO - Current time: 2024-11-11 10:06:44
+2024-11-11 10:06:45,166 - INFO - Current time: 2024-11-11 10:06:45
+2024-11-11 10:06:45,368 - INFO - Current time: 2024-11-11 10:06:45
+2024-11-11 10:06:45,828 - INFO - Current time: 2024-11-11 10:06:45
+2024-11-11 10:06:46,133 - INFO - Current time: 2024-11-11 10:06:46
+2024-11-11 10:06:46,741 - INFO - Current time: 2024-11-11 10:06:46
+2024-11-11 10:06:46,804 - INFO - Current time: 2024-11-11 10:06:46
+2024-11-11 10:06:46,807 - INFO - Current time: 2024-11-11 10:06:46
+2024-11-11 10:06:46,968 - INFO - Current time: 2024-11-11 10:06:46
+2024-11-11 10:06:47,504 - INFO - Current time: 2024-11-11 10:06:47
+2024-11-11 10:06:50,093 - WARNING - No faces in frame 97 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-11-11 10:06:52,389 - WARNING - No faces in frame 184 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-11-11 10:06:52,600 - INFO - Current time: 2024-11-11 10:06:52
+2024-11-11 10:06:52,887 - WARNING - No faces in frame 195 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-11-11 10:06:53,115 - WARNING - No faces in frame 205 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-11-11 10:06:53,116 - INFO - Current time: 2024-11-11 10:06:53
+2024-11-11 10:06:53,864 - INFO - Current time: 2024-11-11 10:06:53
+2024-11-11 10:06:54,120 - INFO - Current time: 2024-11-11 10:06:54
+2024-11-11 10:06:54,377 - INFO - Current time: 2024-11-11 10:06:54
+2024-11-11 10:06:54,878 - INFO - Current time: 2024-11-11 10:06:54
+2024-11-11 10:06:55,374 - INFO - Current time: 2024-11-11 10:06:55
+2024-11-11 10:06:56,305 - INFO - Current time: 2024-11-11 10:06:56
+2024-11-11 10:06:56,865 - INFO - Current time: 2024-11-11 10:06:56
+2024-11-11 10:06:57,456 - INFO - Current time: 2024-11-11 10:06:57
+2024-11-11 10:06:57,612 - INFO - Current time: 2024-11-11 10:06:57
+2024-11-11 10:06:58,178 - INFO - Current time: 2024-11-11 10:06:58
+2024-11-11 10:06:58,678 - INFO - Current time: 2024-11-11 10:06:58
+2024-11-11 10:06:58,683 - INFO - Current time: 2024-11-11 10:06:58
+2024-11-11 10:06:59,179 - INFO - Current time: 2024-11-11 10:06:59
+2024-11-11 10:06:59,340 - INFO - Current time: 2024-11-11 10:06:59
+2024-11-11 10:06:59,618 - INFO - Current time: 2024-11-11 10:06:59
+2024-11-11 10:07:00,081 - INFO - Current time: 2024-11-11 10:07:00
+2024-11-11 10:07:00,727 - INFO - Current time: 2024-11-11 10:07:00
+2024-11-11 10:07:00,884 - INFO - Current time: 2024-11-11 10:07:00
+2024-11-11 10:07:01,000 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:01,000 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:01,394 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:01,395 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:01,907 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:01,970 - INFO - Current time: 2024-11-11 10:07:01
+2024-11-11 10:07:02,189 - INFO - Current time: 2024-11-11 10:07:02
+2024-11-11 10:07:02,374 - INFO - Current time: 2024-11-11 10:07:02
+2024-11-11 10:07:03,118 - INFO - Current time: 2024-11-11 10:07:03
+2024-11-11 10:07:03,269 - INFO - Current time: 2024-11-11 10:07:03
+2024-11-11 10:07:03,571 - INFO - Current time: 2024-11-11 10:07:03
+2024-11-11 10:07:03,835 - INFO - Current time: 2024-11-11 10:07:03
+2024-11-11 10:07:04,026 - WARNING - No faces in frame 66 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:04,640 - WARNING - No faces in frame 116 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:04,977 - INFO - Current time: 2024-11-11 10:07:04
+2024-11-11 10:07:04,980 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:06,216 - INFO - Current time: 2024-11-11 10:07:06
+2024-11-11 10:07:06,778 - INFO - Current time: 2024-11-11 10:07:06
+2024-11-11 10:07:07,190 - INFO - Current time: 2024-11-11 10:07:07
+2024-11-11 10:07:07,430 - INFO - Current time: 2024-11-11 10:07:07
+2024-11-11 10:07:07,927 - INFO - Current time: 2024-11-11 10:07:07
+2024-11-11 10:07:08,274 - INFO - Current time: 2024-11-11 10:07:08
+2024-11-11 10:07:08,536 - WARNING - No faces in frame 300 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:09,394 - WARNING - No faces in frame 367 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:09,682 - INFO - Current time: 2024-11-11 10:07:09
+2024-11-11 10:07:09,737 - WARNING - No faces in frame 384 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-11-11 10:07:10,223 - WARNING - No faces in frame 275 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0001.mp4
+2024-11-11 10:07:10,442 - INFO - Current time: 2024-11-11 10:07:10
+2024-11-11 10:07:10,650 - WARNING - No faces in frame 370 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id1_0000.mp4
+2024-11-11 10:07:10,810 - INFO - Current time: 2024-11-11 10:07:10
+2024-11-11 10:07:11,256 - INFO - Current time: 2024-11-11 10:07:11
+2024-11-11 10:07:11,327 - INFO - Current time: 2024-11-11 10:07:11
+2024-11-11 10:07:11,714 - INFO - Current time: 2024-11-11 10:07:11
+2024-11-11 10:07:12,026 - INFO - Current time: 2024-11-11 10:07:12
+2024-11-11 10:07:12,253 - INFO - Current time: 2024-11-11 10:07:12
+2024-11-11 10:07:12,490 - INFO - Current time: 2024-11-11 10:07:12
+2024-11-11 10:07:12,813 - INFO - Current time: 2024-11-11 10:07:12
+2024-11-11 10:07:13,057 - INFO - Current time: 2024-11-11 10:07:13
+2024-11-11 10:07:13,340 - INFO - Current time: 2024-11-11 10:07:13
+2024-11-11 10:07:13,501 - INFO - Current time: 2024-11-11 10:07:13
+2024-11-11 10:07:13,970 - INFO - Current time: 2024-11-11 10:07:13
+2024-11-11 10:07:14,341 - INFO - Current time: 2024-11-11 10:07:14
+2024-11-11 10:07:14,344 - INFO - Current time: 2024-11-11 10:07:14
+2024-11-11 10:07:14,660 - INFO - Current time: 2024-11-11 10:07:14
+2024-11-11 10:07:14,815 - INFO - Current time: 2024-11-11 10:07:14
+2024-11-11 10:07:15,167 - INFO - Current time: 2024-11-11 10:07:15
+2024-11-11 10:07:15,492 - INFO - Current time: 2024-11-11 10:07:15
+2024-11-11 10:07:15,884 - INFO - Current time: 2024-11-11 10:07:15
+2024-11-11 10:07:16,453 - INFO - Current time: 2024-11-11 10:07:16
+2024-11-11 10:07:16,462 - INFO - Current time: 2024-11-11 10:07:16
+2024-11-11 10:07:16,926 - INFO - Current time: 2024-11-11 10:07:16
+2024-11-11 10:07:17,669 - INFO - Current time: 2024-11-11 10:07:17
+2024-11-11 10:07:19,177 - INFO - Current time: 2024-11-11 10:07:19
+2024-11-11 10:07:19,632 - INFO - Current time: 2024-11-11 10:07:19
+2024-11-11 10:07:19,803 - INFO - Current time: 2024-11-11 10:07:19
+2024-11-11 10:07:20,132 - INFO - Current time: 2024-11-11 10:07:20
+2024-11-11 10:07:21,479 - INFO - Current time: 2024-11-11 10:07:21
+2024-11-11 10:07:21,659 - INFO - Current time: 2024-11-11 10:07:21
+2024-11-11 10:07:22,208 - INFO - Current time: 2024-11-11 10:07:22
+2024-11-11 10:07:22,451 - INFO - Current time: 2024-11-11 10:07:22
+2024-11-11 10:07:22,740 - WARNING - No faces in frame 242 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id4_0003.mp4
+2024-11-11 10:07:23,335 - INFO - Current time: 2024-11-11 10:07:23
+2024-11-11 10:07:24,262 - INFO - Current time: 2024-11-11 10:07:24
+2024-11-11 10:07:25,180 - INFO - Current time: 2024-11-11 10:07:25
+2024-11-11 10:07:27,511 - INFO - Current time: 2024-11-11 10:07:27
+2024-11-11 10:07:28,083 - INFO - Current time: 2024-11-11 10:07:28
+2024-11-11 10:07:28,463 - INFO - Current time: 2024-11-11 10:07:28
+2024-11-11 10:07:28,706 - INFO - Current time: 2024-11-11 10:07:28
+2024-11-11 10:07:29,016 - INFO - Current time: 2024-11-11 10:07:29
+2024-11-11 10:07:29,310 - INFO - Current time: 2024-11-11 10:07:29
+2024-11-11 10:07:29,766 - INFO - Current time: 2024-11-11 10:07:29
+2024-11-11 10:07:29,773 - INFO - Current time: 2024-11-11 10:07:29
+2024-11-11 10:07:30,080 - INFO - Current time: 2024-11-11 10:07:30
+2024-11-11 10:07:30,080 - INFO - Current time: 2024-11-11 10:07:30
+2024-11-11 10:07:30,352 - INFO - Current time: 2024-11-11 10:07:30
+2024-11-11 10:07:30,611 - INFO - Current time: 2024-11-11 10:07:30
+2024-11-11 10:07:30,928 - INFO - Current time: 2024-11-11 10:07:30
+2024-11-11 10:07:31,230 - INFO - Current time: 2024-11-11 10:07:31
+2024-11-11 10:07:31,455 - INFO - Current time: 2024-11-11 10:07:31
+2024-11-11 10:07:31,974 - INFO - Current time: 2024-11-11 10:07:31
+2024-11-11 10:07:32,373 - WARNING - No faces in frame 51 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id8_0003.mp4
+2024-11-11 10:07:32,573 - INFO - Current time: 2024-11-11 10:07:32
+2024-11-11 10:07:32,884 - INFO - Current time: 2024-11-11 10:07:32
+2024-11-11 10:07:33,182 - INFO - Current time: 2024-11-11 10:07:33
+2024-11-11 10:07:33,566 - INFO - Current time: 2024-11-11 10:07:33
+2024-11-11 10:07:34,148 - INFO - Current time: 2024-11-11 10:07:34
+2024-11-11 10:07:34,193 - INFO - Current time: 2024-11-11 10:07:34
+2024-11-11 10:07:34,473 - INFO - Current time: 2024-11-11 10:07:34
+2024-11-11 10:07:34,477 - INFO - Current time: 2024-11-11 10:07:34
+2024-11-11 10:07:34,485 - INFO - Current time: 2024-11-11 10:07:34
+2024-11-11 10:07:35,022 - INFO - Current time: 2024-11-11 10:07:35
+2024-11-11 10:07:35,583 - INFO - Current time: 2024-11-11 10:07:35
+2024-11-11 10:07:36,009 - INFO - Current time: 2024-11-11 10:07:36
+2024-11-11 10:07:36,318 - INFO - Current time: 2024-11-11 10:07:36
+2024-11-11 10:07:36,538 - INFO - Current time: 2024-11-11 10:07:36
+2024-11-11 10:07:36,885 - INFO - Current time: 2024-11-11 10:07:36
+2024-11-11 10:07:37,701 - INFO - Current time: 2024-11-11 10:07:37
+2024-11-11 10:07:38,925 - INFO - Current time: 2024-11-11 10:07:38
+2024-11-11 10:07:38,966 - INFO - Current time: 2024-11-11 10:07:38
+2024-11-11 10:07:39,082 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,118 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,249 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,285 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,369 - WARNING - No faces in frame 377 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-real/id8_0009.mp4
+2024-11-11 10:07:39,375 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,394 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,517 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,552 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,601 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,720 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,832 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,833 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:39,869 - INFO - Current time: 2024-11-11 10:07:39
+2024-11-11 10:07:40,024 - INFO - Current time: 2024-11-11 10:07:40
+2024-11-11 10:07:40,170 - INFO - Current time: 2024-11-11 10:07:40
+2024-11-11 10:07:40,189 - INFO - Current time: 2024-11-11 10:07:40
+2024-11-11 10:07:40,360 - INFO - Current time: 2024-11-11 10:07:40
+2024-11-11 10:07:40,361 - INFO - Total time taken: 1.27 minutes
+2024-11-11 10:07:40,370 - INFO - 795 videos found in ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis
+2024-11-11 10:07:49,286 - WARNING - No faces in frame 117 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id1_0009.mp4
+2024-11-11 10:07:49,365 - WARNING - No faces in frame 117 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id17_0009.mp4
+2024-11-11 10:07:49,367 - WARNING - No faces in frame 117 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id16_0009.mp4
+2024-11-11 10:07:49,598 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id1_0009.mp4
+2024-11-11 10:07:49,702 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id16_0009.mp4
+2024-11-11 10:07:49,724 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id17_0009.mp4
+2024-11-11 10:07:56,574 - INFO - Current time: 2024-11-11 10:07:56
+2024-11-11 10:07:56,576 - INFO - Current time: 2024-11-11 10:07:56
+2024-11-11 10:07:56,799 - INFO - Current time: 2024-11-11 10:07:56
+2024-11-11 10:07:56,801 - INFO - Current time: 2024-11-11 10:07:56
+2024-11-11 10:07:56,983 - INFO - Current time: 2024-11-11 10:07:56
+2024-11-11 10:07:57,348 - INFO - Current time: 2024-11-11 10:07:57
+2024-11-11 10:07:57,574 - INFO - Current time: 2024-11-11 10:07:57
+2024-11-11 10:07:57,776 - INFO - Current time: 2024-11-11 10:07:57
+2024-11-11 10:07:58,047 - INFO - Current time: 2024-11-11 10:07:58
+2024-11-11 10:07:58,503 - INFO - Current time: 2024-11-11 10:07:58
+2024-11-11 10:07:58,688 - INFO - Current time: 2024-11-11 10:07:58
+2024-11-11 10:07:59,075 - INFO - Current time: 2024-11-11 10:07:59
+2024-11-11 10:07:59,275 - INFO - Current time: 2024-11-11 10:07:59
+2024-11-11 10:07:59,386 - INFO - Current time: 2024-11-11 10:07:59
+2024-11-11 10:07:59,675 - INFO - Current time: 2024-11-11 10:07:59
+2024-11-11 10:08:00,084 - INFO - Current time: 2024-11-11 10:08:00
+2024-11-11 10:08:00,084 - INFO - Current time: 2024-11-11 10:08:00
+2024-11-11 10:08:00,364 - INFO - Current time: 2024-11-11 10:08:00
+2024-11-11 10:08:00,580 - INFO - Current time: 2024-11-11 10:08:00
+2024-11-11 10:08:01,031 - INFO - Current time: 2024-11-11 10:08:01
+2024-11-11 10:08:01,339 - INFO - Current time: 2024-11-11 10:08:01
+2024-11-11 10:08:01,660 - INFO - Current time: 2024-11-11 10:08:01
+2024-11-11 10:08:01,660 - INFO - Current time: 2024-11-11 10:08:01
+2024-11-11 10:08:01,664 - INFO - Current time: 2024-11-11 10:08:01
+2024-11-11 10:08:02,269 - INFO - Current time: 2024-11-11 10:08:02
+2024-11-11 10:08:02,386 - INFO - Current time: 2024-11-11 10:08:02
+2024-11-11 10:08:02,595 - INFO - Current time: 2024-11-11 10:08:02
+2024-11-11 10:08:03,152 - INFO - Current time: 2024-11-11 10:08:03
+2024-11-11 10:08:03,152 - INFO - Current time: 2024-11-11 10:08:03
+2024-11-11 10:08:03,217 - INFO - Current time: 2024-11-11 10:08:03
+2024-11-11 10:08:03,657 - INFO - Current time: 2024-11-11 10:08:03
+2024-11-11 10:08:03,901 - INFO - Current time: 2024-11-11 10:08:03
+2024-11-11 10:08:05,286 - WARNING - No faces in frame 117 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id3_0009.mp4
+2024-11-11 10:08:05,595 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id3_0009.mp4
+2024-11-11 10:08:06,269 - WARNING - No faces in frame 117 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id6_0009.mp4
+2024-11-11 10:08:06,579 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id6_0009.mp4
+2024-11-11 10:08:10,605 - WARNING - No faces in frame 251 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id4_0004.mp4
+2024-11-11 10:08:11,922 - INFO - Current time: 2024-11-11 10:08:11
+2024-11-11 10:08:12,428 - INFO - Current time: 2024-11-11 10:08:12
+2024-11-11 10:08:12,688 - INFO - Current time: 2024-11-11 10:08:12
+2024-11-11 10:08:13,152 - INFO - Current time: 2024-11-11 10:08:13
+2024-11-11 10:08:13,424 - INFO - Current time: 2024-11-11 10:08:13
+2024-11-11 10:08:13,577 - INFO - Current time: 2024-11-11 10:08:13
+2024-11-11 10:08:13,910 - INFO - Current time: 2024-11-11 10:08:13
+2024-11-11 10:08:14,184 - WARNING - No faces in frame 3 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:14,369 - WARNING - No faces in frame 6 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:14,385 - INFO - Current time: 2024-11-11 10:08:14
+2024-11-11 10:08:14,671 - INFO - Current time: 2024-11-11 10:08:14
+2024-11-11 10:08:14,830 - INFO - Current time: 2024-11-11 10:08:14
+2024-11-11 10:08:14,831 - WARNING - No faces in frame 10 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:15,039 - INFO - Current time: 2024-11-11 10:08:15
+2024-11-11 10:08:15,428 - WARNING - No faces in frame 13 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:15,453 - INFO - Current time: 2024-11-11 10:08:15
+2024-11-11 10:08:16,024 - INFO - Current time: 2024-11-11 10:08:16
+2024-11-11 10:08:16,136 - INFO - Current time: 2024-11-11 10:08:16
+2024-11-11 10:08:16,391 - INFO - Current time: 2024-11-11 10:08:16
+2024-11-11 10:08:16,391 - INFO - Current time: 2024-11-11 10:08:16
+2024-11-11 10:08:16,628 - INFO - Current time: 2024-11-11 10:08:16
+2024-11-11 10:08:17,082 - INFO - Current time: 2024-11-11 10:08:17
+2024-11-11 10:08:17,314 - INFO - Current time: 2024-11-11 10:08:17
+2024-11-11 10:08:17,468 - INFO - Current time: 2024-11-11 10:08:17
+2024-11-11 10:08:17,821 - INFO - Current time: 2024-11-11 10:08:17
+2024-11-11 10:08:17,992 - INFO - Current time: 2024-11-11 10:08:17
+2024-11-11 10:08:18,641 - INFO - Current time: 2024-11-11 10:08:18
+2024-11-11 10:08:18,641 - INFO - Current time: 2024-11-11 10:08:18
+2024-11-11 10:08:18,912 - INFO - Current time: 2024-11-11 10:08:18
+2024-11-11 10:08:19,198 - WARNING - No faces in frame 6 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:19,205 - WARNING - No faces in frame 13 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id12_0001.mp4
+2024-11-11 10:08:19,377 - INFO - Current time: 2024-11-11 10:08:19
+2024-11-11 10:08:19,735 - WARNING - No faces in frame 13 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:19,943 - INFO - Current time: 2024-11-11 10:08:19
+2024-11-11 10:08:19,944 - INFO - Current time: 2024-11-11 10:08:19
+2024-11-11 10:08:20,108 - INFO - Current time: 2024-11-11 10:08:20
+2024-11-11 10:08:20,689 - INFO - Current time: 2024-11-11 10:08:20
+2024-11-11 10:08:20,706 - WARNING - No faces in frame 20 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:20,885 - INFO - Current time: 2024-11-11 10:08:20
+2024-11-11 10:08:21,299 - WARNING - No faces in frame 40 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:21,299 - WARNING - No faces in frame 3 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:21,570 - WARNING - No faces in frame 6 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:21,835 - INFO - Current time: 2024-11-11 10:08:21
+2024-11-11 10:08:21,953 - WARNING - No faces in frame 10 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:22,188 - WARNING - No faces in frame 13 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:22,191 - WARNING - No faces in frame 133 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id0_id9_0009.mp4
+2024-11-11 10:08:22,474 - WARNING - No faces in frame 16 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:22,714 - WARNING - No faces in frame 20 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:22,824 - WARNING - No faces in frame 57 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:22,939 - WARNING - No faces in frame 43 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:23,075 - WARNING - No faces in frame 60 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:23,388 - WARNING - No faces in frame 63 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:23,511 - WARNING - No faces in frame 50 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:24,061 - WARNING - No faces in frame 57 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:24,359 - WARNING - No faces in frame 60 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:24,486 - WARNING - No faces in frame 40 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:24,662 - WARNING - No faces in frame 63 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:24,922 - WARNING - No faces in frame 80 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:25,178 - WARNING - No faces in frame 83 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:25,426 - WARNING - No faces in frame 50 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:25,734 - WARNING - No faces in frame 53 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:25,790 - WARNING - No faces in frame 90 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:26,208 - WARNING - No faces in frame 57 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:26,211 - INFO - Current time: 2024-11-11 10:08:26
+2024-11-11 10:08:26,313 - WARNING - No faces in frame 93 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:26,328 - WARNING - No faces in frame 80 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:26,717 - INFO - Current time: 2024-11-11 10:08:26
+2024-11-11 10:08:26,816 - WARNING - No faces in frame 97 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:26,816 - WARNING - No faces in frame 83 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:26,842 - WARNING - No faces in frame 60 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:27,089 - WARNING - No faces in frame 100 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:27,166 - WARNING - No faces in frame 63 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:27,546 - INFO - Current time: 2024-11-11 10:08:27
+2024-11-11 10:08:27,657 - WARNING - No faces in frame 90 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:27,677 - WARNING - No faces in frame 104 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-11-11 10:08:27,879 - INFO - Current time: 2024-11-11 10:08:27
+2024-11-11 10:08:28,029 - INFO - Current time: 2024-11-11 10:08:28
+2024-11-11 10:08:28,167 - WARNING - No faces in frame 93 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:28,469 - WARNING - No faces in frame 97 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:28,936 - INFO - Current time: 2024-11-11 10:08:28
+2024-11-11 10:08:29,023 - WARNING - No faces in frame 100 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:29,430 - INFO - Current time: 2024-11-11 10:08:29
+2024-11-11 10:08:29,533 - WARNING - No faces in frame 104 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-11-11 10:08:29,695 - INFO - Current time: 2024-11-11 10:08:29
+2024-11-11 10:08:29,752 - WARNING - No faces in frame 80 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:29,936 - INFO - Current time: 2024-11-11 10:08:29
+2024-11-11 10:08:30,040 - WARNING - No faces in frame 83 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:30,670 - WARNING - No faces in frame 90 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:30,876 - INFO - Current time: 2024-11-11 10:08:30
+2024-11-11 10:08:31,085 - INFO - Current time: 2024-11-11 10:08:31
+2024-11-11 10:08:31,291 - INFO - Current time: 2024-11-11 10:08:31
+2024-11-11 10:08:31,568 - WARNING - No faces in frame 93 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:31,571 - INFO - Current time: 2024-11-11 10:08:31
+2024-11-11 10:08:31,745 - WARNING - No faces in frame 97 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:31,767 - WARNING - No faces in frame 0 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id11_id7_0004.mp4
+2024-11-11 10:08:32,273 - INFO - Current time: 2024-11-11 10:08:32
+2024-11-11 10:08:32,283 - INFO - Current time: 2024-11-11 10:08:32
+2024-11-11 10:08:32,490 - INFO - Current time: 2024-11-11 10:08:32
+2024-11-11 10:08:32,500 - WARNING - No faces in frame 100 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:32,789 - WARNING - No faces in frame 104 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-11-11 10:08:32,979 - INFO - Current time: 2024-11-11 10:08:32
+2024-11-11 10:08:33,530 - INFO - Current time: 2024-11-11 10:08:33
+2024-11-11 10:08:33,533 - INFO - Current time: 2024-11-11 10:08:33
+2024-11-11 10:08:33,844 - INFO - Current time: 2024-11-11 10:08:33
+2024-11-11 10:08:34,391 - INFO - Current time: 2024-11-11 10:08:34
+2024-11-11 10:08:34,656 - INFO - Current time: 2024-11-11 10:08:34
+2024-11-11 10:08:35,260 - INFO - Current time: 2024-11-11 10:08:35
+2024-11-11 10:08:35,489 - INFO - Current time: 2024-11-11 10:08:35
+2024-11-11 10:08:35,969 - INFO - Current time: 2024-11-11 10:08:35
+2024-11-11 10:08:35,977 - INFO - Current time: 2024-11-11 10:08:35
+2024-11-11 10:08:36,224 - INFO - Current time: 2024-11-11 10:08:36
+2024-11-11 10:08:36,535 - INFO - Current time: 2024-11-11 10:08:36
+2024-11-11 10:08:37,004 - INFO - Current time: 2024-11-11 10:08:37
+2024-11-11 10:08:37,777 - INFO - Current time: 2024-11-11 10:08:37
+2024-11-11 10:08:38,422 - INFO - Current time: 2024-11-11 10:08:38
+2024-11-11 10:08:38,588 - INFO - Current time: 2024-11-11 10:08:38
+2024-11-11 10:08:40,483 - INFO - Current time: 2024-11-11 10:08:40
+2024-11-11 10:08:40,752 - INFO - Current time: 2024-11-11 10:08:40
+2024-11-11 10:08:41,589 - INFO - Current time: 2024-11-11 10:08:41
+2024-11-11 10:08:44,202 - INFO - Current time: 2024-11-11 10:08:44
+2024-11-11 10:08:44,967 - INFO - Current time: 2024-11-11 10:08:44
+2024-11-11 10:08:46,157 - INFO - Current time: 2024-11-11 10:08:46
+2024-11-11 10:08:46,418 - INFO - Current time: 2024-11-11 10:08:46
+2024-11-11 10:08:46,804 - INFO - Current time: 2024-11-11 10:08:46
+2024-11-11 10:08:46,865 - INFO - Current time: 2024-11-11 10:08:46
+2024-11-11 10:08:47,405 - INFO - Current time: 2024-11-11 10:08:47
+2024-11-11 10:08:47,685 - INFO - Current time: 2024-11-11 10:08:47
+2024-11-11 10:08:47,943 - INFO - Current time: 2024-11-11 10:08:47
+2024-11-11 10:08:48,651 - INFO - Current time: 2024-11-11 10:08:48
+2024-11-11 10:08:48,656 - INFO - Current time: 2024-11-11 10:08:48
+2024-11-11 10:08:48,864 - INFO - Current time: 2024-11-11 10:08:48
+2024-11-11 10:08:49,068 - INFO - Current time: 2024-11-11 10:08:49
+2024-11-11 10:08:49,359 - INFO - Current time: 2024-11-11 10:08:49
+2024-11-11 10:08:50,018 - INFO - Current time: 2024-11-11 10:08:50
+2024-11-11 10:08:50,140 - INFO - Current time: 2024-11-11 10:08:50
+2024-11-11 10:08:50,380 - INFO - Current time: 2024-11-11 10:08:50
+2024-11-11 10:08:50,959 - INFO - Current time: 2024-11-11 10:08:50
+2024-11-11 10:08:51,268 - INFO - Current time: 2024-11-11 10:08:51
+2024-11-11 10:08:51,894 - INFO - Current time: 2024-11-11 10:08:51
+2024-11-11 10:08:52,566 - INFO - Current time: 2024-11-11 10:08:52
+2024-11-11 10:08:52,638 - INFO - Current time: 2024-11-11 10:08:52
+2024-11-11 10:08:53,203 - INFO - Current time: 2024-11-11 10:08:53
+2024-11-11 10:08:53,259 - INFO - Current time: 2024-11-11 10:08:53
+2024-11-11 10:08:53,259 - INFO - Current time: 2024-11-11 10:08:53
+2024-11-11 10:08:53,461 - INFO - Current time: 2024-11-11 10:08:53
+2024-11-11 10:08:53,984 - INFO - Current time: 2024-11-11 10:08:53
+2024-11-11 10:08:54,260 - INFO - Current time: 2024-11-11 10:08:54
+2024-11-11 10:08:54,774 - INFO - Current time: 2024-11-11 10:08:54
+2024-11-11 10:08:56,130 - INFO - Current time: 2024-11-11 10:08:56
+2024-11-11 10:08:58,474 - INFO - Current time: 2024-11-11 10:08:58
+2024-11-11 10:08:59,586 - INFO - Current time: 2024-11-11 10:08:59
+2024-11-11 10:09:00,969 - INFO - Current time: 2024-11-11 10:09:00
+2024-11-11 10:09:01,245 - INFO - Current time: 2024-11-11 10:09:01
+2024-11-11 10:09:02,406 - INFO - Current time: 2024-11-11 10:09:02
+2024-11-11 10:09:02,655 - INFO - Current time: 2024-11-11 10:09:02
+2024-11-11 10:09:03,304 - INFO - Current time: 2024-11-11 10:09:03
+2024-11-11 10:09:03,883 - INFO - Current time: 2024-11-11 10:09:03
+2024-11-11 10:09:04,197 - INFO - Current time: 2024-11-11 10:09:04
+2024-11-11 10:09:04,380 - INFO - Current time: 2024-11-11 10:09:04
+2024-11-11 10:09:04,681 - INFO - Current time: 2024-11-11 10:09:04
+2024-11-11 10:09:05,611 - INFO - Current time: 2024-11-11 10:09:05
+2024-11-11 10:09:05,612 - INFO - Current time: 2024-11-11 10:09:05
+2024-11-11 10:09:06,237 - INFO - Current time: 2024-11-11 10:09:06
+2024-11-11 10:09:06,501 - INFO - Current time: 2024-11-11 10:09:06
+2024-11-11 10:09:06,793 - INFO - Current time: 2024-11-11 10:09:06
+2024-11-11 10:09:06,948 - INFO - Current time: 2024-11-11 10:09:06
+2024-11-11 10:09:07,203 - INFO - Current time: 2024-11-11 10:09:07
+2024-11-11 10:09:07,652 - INFO - Current time: 2024-11-11 10:09:07
+2024-11-11 10:09:08,026 - INFO - Current time: 2024-11-11 10:09:08
+2024-11-11 10:09:08,246 - INFO - Current time: 2024-11-11 10:09:08
+2024-11-11 10:09:08,307 - INFO - Current time: 2024-11-11 10:09:08
+2024-11-11 10:09:08,549 - INFO - Current time: 2024-11-11 10:09:08
+2024-11-11 10:09:09,077 - INFO - Current time: 2024-11-11 10:09:09
+2024-11-11 10:09:09,289 - INFO - Current time: 2024-11-11 10:09:09
+2024-11-11 10:09:09,819 - INFO - Current time: 2024-11-11 10:09:09
+2024-11-11 10:09:10,059 - INFO - Current time: 2024-11-11 10:09:10
+2024-11-11 10:09:10,270 - INFO - Current time: 2024-11-11 10:09:10
+2024-11-11 10:09:10,830 - INFO - Current time: 2024-11-11 10:09:10
+2024-11-11 10:09:11,416 - INFO - Current time: 2024-11-11 10:09:11
+2024-11-11 10:09:11,630 - INFO - Current time: 2024-11-11 10:09:11
+2024-11-11 10:09:13,145 - WARNING - No faces in frame 167 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id16_id17_0010.mp4
+2024-11-11 10:09:13,411 - INFO - Current time: 2024-11-11 10:09:13
+2024-11-11 10:09:14,957 - INFO - Current time: 2024-11-11 10:09:14
+2024-11-11 10:09:14,973 - WARNING - No faces in frame 135 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id16_id1_0010.mp4
+2024-11-11 10:09:15,796 - INFO - Current time: 2024-11-11 10:09:15
+2024-11-11 10:09:17,284 - INFO - Current time: 2024-11-11 10:09:17
+2024-11-11 10:09:17,727 - INFO - Current time: 2024-11-11 10:09:17
+2024-11-11 10:09:17,964 - INFO - Current time: 2024-11-11 10:09:17
+2024-11-11 10:09:18,666 - INFO - Current time: 2024-11-11 10:09:18
+2024-11-11 10:09:18,819 - INFO - Current time: 2024-11-11 10:09:18
+2024-11-11 10:09:19,407 - INFO - Current time: 2024-11-11 10:09:19
+2024-11-11 10:09:20,324 - INFO - Current time: 2024-11-11 10:09:20
+2024-11-11 10:09:20,702 - INFO - Current time: 2024-11-11 10:09:20
+2024-11-11 10:09:21,252 - INFO - Current time: 2024-11-11 10:09:21
+2024-11-11 10:09:21,537 - INFO - Current time: 2024-11-11 10:09:21
+2024-11-11 10:09:22,116 - INFO - Current time: 2024-11-11 10:09:22
+2024-11-11 10:09:22,294 - INFO - Current time: 2024-11-11 10:09:22
+2024-11-11 10:09:22,918 - INFO - Current time: 2024-11-11 10:09:22
+2024-11-11 10:09:23,190 - INFO - Current time: 2024-11-11 10:09:23
+2024-11-11 10:09:23,563 - INFO - Current time: 2024-11-11 10:09:23
+2024-11-11 10:09:23,883 - INFO - Current time: 2024-11-11 10:09:23
+2024-11-11 10:09:24,454 - INFO - Current time: 2024-11-11 10:09:24
+2024-11-11 10:09:24,730 - INFO - Current time: 2024-11-11 10:09:24
+2024-11-11 10:09:25,018 - INFO - Current time: 2024-11-11 10:09:25
+2024-11-11 10:09:25,303 - INFO - Current time: 2024-11-11 10:09:25
+2024-11-11 10:09:25,867 - INFO - Current time: 2024-11-11 10:09:25
+2024-11-11 10:09:26,169 - INFO - Current time: 2024-11-11 10:09:26
+2024-11-11 10:09:26,510 - WARNING - No faces in frame 135 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id16_id2_0010.mp4
+2024-11-11 10:09:26,746 - INFO - Current time: 2024-11-11 10:09:26
+2024-11-11 10:09:26,974 - INFO - Current time: 2024-11-11 10:09:26
+2024-11-11 10:09:27,665 - INFO - Current time: 2024-11-11 10:09:27
+2024-11-11 10:09:27,951 - INFO - Current time: 2024-11-11 10:09:27
+2024-11-11 10:09:28,008 - WARNING - No faces in frame 167 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id16_id2_0010.mp4
+2024-11-11 10:09:28,927 - INFO - Current time: 2024-11-11 10:09:28
+2024-11-11 10:09:29,143 - INFO - Current time: 2024-11-11 10:09:29
+2024-11-11 10:09:30,147 - INFO - Current time: 2024-11-11 10:09:30
+2024-11-11 10:09:30,153 - INFO - Current time: 2024-11-11 10:09:30
+2024-11-11 10:09:30,216 - INFO - Current time: 2024-11-11 10:09:30
+2024-11-11 10:09:32,137 - INFO - Current time: 2024-11-11 10:09:32
+2024-11-11 10:09:32,933 - INFO - Current time: 2024-11-11 10:09:32
+2024-11-11 10:09:33,220 - INFO - Current time: 2024-11-11 10:09:33
+2024-11-11 10:09:34,163 - INFO - Current time: 2024-11-11 10:09:34
+2024-11-11 10:09:34,885 - INFO - Current time: 2024-11-11 10:09:34
+2024-11-11 10:09:35,432 - INFO - Current time: 2024-11-11 10:09:35
+2024-11-11 10:09:36,060 - INFO - Current time: 2024-11-11 10:09:36
+2024-11-11 10:09:36,227 - INFO - Current time: 2024-11-11 10:09:36
+2024-11-11 10:09:36,772 - INFO - Current time: 2024-11-11 10:09:36
+2024-11-11 10:09:37,375 - INFO - Current time: 2024-11-11 10:09:37
+2024-11-11 10:09:37,553 - INFO - Current time: 2024-11-11 10:09:37
+2024-11-11 10:09:38,659 - INFO - Current time: 2024-11-11 10:09:38
+2024-11-11 10:09:39,131 - INFO - Current time: 2024-11-11 10:09:39
+2024-11-11 10:09:40,047 - INFO - Current time: 2024-11-11 10:09:40
+2024-11-11 10:09:40,052 - INFO - Current time: 2024-11-11 10:09:40
+2024-11-11 10:09:40,555 - INFO - Current time: 2024-11-11 10:09:40
+2024-11-11 10:09:40,811 - INFO - Current time: 2024-11-11 10:09:40
+2024-11-11 10:09:41,176 - INFO - Current time: 2024-11-11 10:09:41
+2024-11-11 10:09:41,393 - INFO - Current time: 2024-11-11 10:09:41
+2024-11-11 10:09:41,727 - INFO - Current time: 2024-11-11 10:09:41
+2024-11-11 10:09:42,007 - INFO - Current time: 2024-11-11 10:09:42
+2024-11-11 10:09:42,289 - INFO - Current time: 2024-11-11 10:09:42
+2024-11-11 10:09:42,639 - INFO - Current time: 2024-11-11 10:09:42
+2024-11-11 10:09:43,438 - INFO - Current time: 2024-11-11 10:09:43
+2024-11-11 10:09:43,445 - INFO - Current time: 2024-11-11 10:09:43
+2024-11-11 10:09:44,243 - INFO - Current time: 2024-11-11 10:09:44
+2024-11-11 10:09:44,488 - INFO - Current time: 2024-11-11 10:09:44
+2024-11-11 10:09:44,759 - INFO - Current time: 2024-11-11 10:09:44
+2024-11-11 10:09:45,202 - INFO - Current time: 2024-11-11 10:09:45
+2024-11-11 10:09:46,169 - INFO - Current time: 2024-11-11 10:09:46
+2024-11-11 10:09:46,813 - INFO - Current time: 2024-11-11 10:09:46
+2024-11-11 10:09:47,741 - INFO - Current time: 2024-11-11 10:09:47
+2024-11-11 10:09:48,397 - INFO - Current time: 2024-11-11 10:09:48
+2024-11-11 10:09:49,593 - INFO - Current time: 2024-11-11 10:09:49
+2024-11-11 10:09:50,353 - INFO - Current time: 2024-11-11 10:09:50
+2024-11-11 10:09:50,360 - INFO - Current time: 2024-11-11 10:09:50
+2024-11-11 10:09:50,870 - INFO - Current time: 2024-11-11 10:09:50
+2024-11-11 10:09:51,203 - INFO - Current time: 2024-11-11 10:09:51
+2024-11-11 10:09:51,372 - INFO - Current time: 2024-11-11 10:09:51
+2024-11-11 10:09:51,950 - INFO - Current time: 2024-11-11 10:09:51
+2024-11-11 10:09:52,471 - INFO - Current time: 2024-11-11 10:09:52
+2024-11-11 10:09:52,531 - INFO - Current time: 2024-11-11 10:09:52
+2024-11-11 10:09:52,821 - INFO - Current time: 2024-11-11 10:09:52
+2024-11-11 10:09:53,089 - INFO - Current time: 2024-11-11 10:09:53
+2024-11-11 10:09:53,544 - INFO - Current time: 2024-11-11 10:09:53
+2024-11-11 10:09:53,831 - INFO - Current time: 2024-11-11 10:09:53
+2024-11-11 10:09:54,042 - INFO - Current time: 2024-11-11 10:09:54
+2024-11-11 10:09:54,263 - INFO - Current time: 2024-11-11 10:09:54
+2024-11-11 10:09:54,851 - INFO - Current time: 2024-11-11 10:09:54
+2024-11-11 10:09:55,028 - INFO - Current time: 2024-11-11 10:09:55
+2024-11-11 10:09:55,350 - INFO - Current time: 2024-11-11 10:09:55
+2024-11-11 10:09:55,766 - INFO - Current time: 2024-11-11 10:09:55
+2024-11-11 10:09:56,304 - INFO - Current time: 2024-11-11 10:09:56
+2024-11-11 10:09:56,311 - INFO - Current time: 2024-11-11 10:09:56
+2024-11-11 10:09:57,049 - INFO - Current time: 2024-11-11 10:09:57
+2024-11-11 10:09:57,947 - INFO - Current time: 2024-11-11 10:09:57
+2024-11-11 10:09:58,313 - INFO - Current time: 2024-11-11 10:09:58
+2024-11-11 10:09:58,655 - INFO - Current time: 2024-11-11 10:09:58
+2024-11-11 10:09:59,900 - INFO - Current time: 2024-11-11 10:09:59
+2024-11-11 10:10:00,324 - INFO - Current time: 2024-11-11 10:10:00
+2024-11-11 10:10:00,543 - INFO - Current time: 2024-11-11 10:10:00
+2024-11-11 10:10:00,864 - INFO - Current time: 2024-11-11 10:10:00
+2024-11-11 10:10:01,387 - INFO - Current time: 2024-11-11 10:10:01
+2024-11-11 10:10:01,541 - INFO - Current time: 2024-11-11 10:10:01
+2024-11-11 10:10:01,857 - INFO - Current time: 2024-11-11 10:10:01
+2024-11-11 10:10:02,389 - INFO - Current time: 2024-11-11 10:10:02
+2024-11-11 10:10:02,655 - INFO - Current time: 2024-11-11 10:10:02
+2024-11-11 10:10:03,553 - INFO - Current time: 2024-11-11 10:10:03
+2024-11-11 10:10:04,381 - INFO - Current time: 2024-11-11 10:10:04
+2024-11-11 10:10:04,898 - INFO - Current time: 2024-11-11 10:10:04
+2024-11-11 10:10:05,227 - INFO - Current time: 2024-11-11 10:10:05
+2024-11-11 10:10:05,575 - INFO - Current time: 2024-11-11 10:10:05
+2024-11-11 10:10:06,190 - INFO - Current time: 2024-11-11 10:10:06
+2024-11-11 10:10:06,715 - INFO - Current time: 2024-11-11 10:10:06
+2024-11-11 10:10:07,112 - INFO - Current time: 2024-11-11 10:10:07
+2024-11-11 10:10:07,366 - INFO - Current time: 2024-11-11 10:10:07
+2024-11-11 10:10:07,638 - INFO - Current time: 2024-11-11 10:10:07
+2024-11-11 10:10:07,873 - INFO - Current time: 2024-11-11 10:10:07
+2024-11-11 10:10:08,180 - INFO - Current time: 2024-11-11 10:10:08
+2024-11-11 10:10:08,489 - INFO - Current time: 2024-11-11 10:10:08
+2024-11-11 10:10:08,816 - INFO - Current time: 2024-11-11 10:10:08
+2024-11-11 10:10:09,782 - INFO - Current time: 2024-11-11 10:10:09
+2024-11-11 10:10:10,253 - INFO - Current time: 2024-11-11 10:10:10
+2024-11-11 10:10:10,490 - INFO - Current time: 2024-11-11 10:10:10
+2024-11-11 10:10:11,028 - INFO - Current time: 2024-11-11 10:10:11
+2024-11-11 10:10:11,418 - INFO - Current time: 2024-11-11 10:10:11
+2024-11-11 10:10:11,709 - INFO - Current time: 2024-11-11 10:10:11
+2024-11-11 10:10:12,285 - INFO - Current time: 2024-11-11 10:10:12
+2024-11-11 10:10:12,560 - INFO - Current time: 2024-11-11 10:10:12
+2024-11-11 10:10:13,046 - INFO - Current time: 2024-11-11 10:10:13
+2024-11-11 10:10:13,456 - INFO - Current time: 2024-11-11 10:10:13
+2024-11-11 10:10:14,011 - INFO - Current time: 2024-11-11 10:10:14
+2024-11-11 10:10:14,258 - INFO - Current time: 2024-11-11 10:10:14
+2024-11-11 10:10:15,437 - INFO - Current time: 2024-11-11 10:10:15
+2024-11-11 10:10:15,619 - INFO - Current time: 2024-11-11 10:10:15
+2024-11-11 10:10:16,007 - INFO - Current time: 2024-11-11 10:10:16
+2024-11-11 10:10:16,453 - INFO - Current time: 2024-11-11 10:10:16
+2024-11-11 10:10:17,350 - INFO - Current time: 2024-11-11 10:10:17
+2024-11-11 10:10:17,650 - INFO - Current time: 2024-11-11 10:10:17
+2024-11-11 10:10:17,814 - INFO - Current time: 2024-11-11 10:10:17
+2024-11-11 10:10:18,377 - INFO - Current time: 2024-11-11 10:10:18
+2024-11-11 10:10:18,678 - INFO - Current time: 2024-11-11 10:10:18
+2024-11-11 10:10:19,048 - INFO - Current time: 2024-11-11 10:10:19
+2024-11-11 10:10:19,642 - INFO - Current time: 2024-11-11 10:10:19
+2024-11-11 10:10:19,973 - INFO - Current time: 2024-11-11 10:10:19
+2024-11-11 10:10:20,267 - INFO - Current time: 2024-11-11 10:10:20
+2024-11-11 10:10:20,760 - INFO - Current time: 2024-11-11 10:10:20
+2024-11-11 10:10:21,445 - INFO - Current time: 2024-11-11 10:10:21
+2024-11-11 10:10:21,673 - INFO - Current time: 2024-11-11 10:10:21
+2024-11-11 10:10:21,942 - INFO - Current time: 2024-11-11 10:10:21
+2024-11-11 10:10:22,098 - INFO - Current time: 2024-11-11 10:10:22
+2024-11-11 10:10:23,013 - INFO - Current time: 2024-11-11 10:10:23
+2024-11-11 10:10:23,310 - INFO - Current time: 2024-11-11 10:10:23
+2024-11-11 10:10:23,607 - INFO - Current time: 2024-11-11 10:10:23
+2024-11-11 10:10:23,977 - INFO - Current time: 2024-11-11 10:10:23
+2024-11-11 10:10:24,136 - INFO - Current time: 2024-11-11 10:10:24
+2024-11-11 10:10:24,382 - INFO - Current time: 2024-11-11 10:10:24
+2024-11-11 10:10:24,688 - INFO - Current time: 2024-11-11 10:10:24
+2024-11-11 10:10:25,013 - INFO - Current time: 2024-11-11 10:10:25
+2024-11-11 10:10:25,349 - INFO - Current time: 2024-11-11 10:10:25
+2024-11-11 10:10:26,014 - INFO - Current time: 2024-11-11 10:10:26
+2024-11-11 10:10:26,922 - INFO - Current time: 2024-11-11 10:10:26
+2024-11-11 10:10:27,042 - INFO - Current time: 2024-11-11 10:10:27
+2024-11-11 10:10:27,419 - INFO - Current time: 2024-11-11 10:10:27
+2024-11-11 10:10:27,856 - INFO - Current time: 2024-11-11 10:10:27
+2024-11-11 10:10:28,381 - INFO - Current time: 2024-11-11 10:10:28
+2024-11-11 10:10:28,729 - INFO - Current time: 2024-11-11 10:10:28
+2024-11-11 10:10:29,134 - INFO - Current time: 2024-11-11 10:10:29
+2024-11-11 10:10:29,877 - INFO - Current time: 2024-11-11 10:10:29
+2024-11-11 10:10:30,412 - INFO - Current time: 2024-11-11 10:10:30
+2024-11-11 10:10:30,858 - INFO - Current time: 2024-11-11 10:10:30
+2024-11-11 10:10:31,116 - INFO - Current time: 2024-11-11 10:10:31
+2024-11-11 10:10:31,655 - INFO - Current time: 2024-11-11 10:10:31
+2024-11-11 10:10:32,120 - INFO - Current time: 2024-11-11 10:10:32
+2024-11-11 10:10:32,426 - INFO - Current time: 2024-11-11 10:10:32
+2024-11-11 10:10:33,135 - INFO - Current time: 2024-11-11 10:10:33
+2024-11-11 10:10:33,135 - INFO - Current time: 2024-11-11 10:10:33
+2024-11-11 10:10:33,551 - INFO - Current time: 2024-11-11 10:10:33
+2024-11-11 10:10:34,267 - INFO - Current time: 2024-11-11 10:10:34
+2024-11-11 10:10:34,542 - INFO - Current time: 2024-11-11 10:10:34
+2024-11-11 10:10:34,939 - INFO - Current time: 2024-11-11 10:10:34
+2024-11-11 10:10:35,360 - INFO - Current time: 2024-11-11 10:10:35
+2024-11-11 10:10:35,664 - INFO - Current time: 2024-11-11 10:10:35
+2024-11-11 10:10:36,419 - INFO - Current time: 2024-11-11 10:10:36
+2024-11-11 10:10:36,592 - INFO - Current time: 2024-11-11 10:10:36
+2024-11-11 10:10:36,820 - INFO - Current time: 2024-11-11 10:10:36
+2024-11-11 10:10:37,082 - INFO - Current time: 2024-11-11 10:10:37
+2024-11-11 10:10:37,232 - INFO - Current time: 2024-11-11 10:10:37
+2024-11-11 10:10:37,675 - INFO - Current time: 2024-11-11 10:10:37
+2024-11-11 10:10:38,142 - INFO - Current time: 2024-11-11 10:10:38
+2024-11-11 10:10:38,843 - INFO - Current time: 2024-11-11 10:10:38
+2024-11-11 10:10:39,148 - INFO - Current time: 2024-11-11 10:10:39
+2024-11-11 10:10:39,406 - INFO - Current time: 2024-11-11 10:10:39
+2024-11-11 10:10:39,811 - INFO - Current time: 2024-11-11 10:10:39
+2024-11-11 10:10:40,214 - INFO - Current time: 2024-11-11 10:10:40
+2024-11-11 10:10:40,624 - INFO - Current time: 2024-11-11 10:10:40
+2024-11-11 10:10:41,396 - INFO - Current time: 2024-11-11 10:10:41
+2024-11-11 10:10:42,013 - INFO - Current time: 2024-11-11 10:10:42
+2024-11-11 10:10:42,271 - INFO - Current time: 2024-11-11 10:10:42
+2024-11-11 10:10:42,708 - INFO - Current time: 2024-11-11 10:10:42
+2024-11-11 10:10:43,592 - INFO - Current time: 2024-11-11 10:10:43
+2024-11-11 10:10:44,006 - INFO - Current time: 2024-11-11 10:10:44
+2024-11-11 10:10:44,232 - INFO - Current time: 2024-11-11 10:10:44
+2024-11-11 10:10:44,686 - INFO - Current time: 2024-11-11 10:10:44
+2024-11-11 10:10:45,184 - INFO - Current time: 2024-11-11 10:10:45
+2024-11-11 10:10:45,910 - INFO - Current time: 2024-11-11 10:10:45
+2024-11-11 10:10:46,228 - INFO - Current time: 2024-11-11 10:10:46
+2024-11-11 10:10:46,735 - INFO - Current time: 2024-11-11 10:10:46
+2024-11-11 10:10:46,742 - INFO - Current time: 2024-11-11 10:10:46
+2024-11-11 10:10:46,961 - INFO - Current time: 2024-11-11 10:10:46
+2024-11-11 10:10:47,443 - INFO - Current time: 2024-11-11 10:10:47
+2024-11-11 10:10:48,091 - INFO - Current time: 2024-11-11 10:10:48
+2024-11-11 10:10:48,424 - INFO - Current time: 2024-11-11 10:10:48
+2024-11-11 10:10:48,890 - INFO - Current time: 2024-11-11 10:10:48
+2024-11-11 10:10:49,580 - INFO - Current time: 2024-11-11 10:10:49
+2024-11-11 10:10:49,877 - INFO - Current time: 2024-11-11 10:10:49
+2024-11-11 10:10:50,151 - INFO - Current time: 2024-11-11 10:10:50
+2024-11-11 10:10:50,632 - INFO - Current time: 2024-11-11 10:10:50
+2024-11-11 10:10:51,321 - INFO - Current time: 2024-11-11 10:10:51
+2024-11-11 10:10:51,858 - INFO - Current time: 2024-11-11 10:10:51
+2024-11-11 10:10:52,172 - INFO - Current time: 2024-11-11 10:10:52
+2024-11-11 10:10:52,385 - INFO - Current time: 2024-11-11 10:10:52
+2024-11-11 10:10:52,731 - INFO - Current time: 2024-11-11 10:10:52
+2024-11-11 10:10:52,988 - INFO - Current time: 2024-11-11 10:10:52
+2024-11-11 10:10:53,471 - INFO - Current time: 2024-11-11 10:10:53
+2024-11-11 10:10:54,602 - INFO - Current time: 2024-11-11 10:10:54
+2024-11-11 10:10:54,784 - INFO - Current time: 2024-11-11 10:10:54
+2024-11-11 10:10:55,907 - INFO - Current time: 2024-11-11 10:10:55
+2024-11-11 10:10:56,225 - INFO - Current time: 2024-11-11 10:10:56
+2024-11-11 10:10:56,543 - INFO - Current time: 2024-11-11 10:10:56
+2024-11-11 10:10:56,855 - INFO - Current time: 2024-11-11 10:10:56
+2024-11-11 10:10:57,025 - INFO - Current time: 2024-11-11 10:10:57
+2024-11-11 10:10:57,516 - INFO - Current time: 2024-11-11 10:10:57
+2024-11-11 10:10:57,825 - INFO - Current time: 2024-11-11 10:10:57
+2024-11-11 10:10:58,268 - INFO - Current time: 2024-11-11 10:10:58
+2024-11-11 10:10:59,587 - INFO - Current time: 2024-11-11 10:10:59
+2024-11-11 10:11:00,033 - INFO - Current time: 2024-11-11 10:11:00
+2024-11-11 10:11:00,274 - INFO - Current time: 2024-11-11 10:11:00
+2024-11-11 10:11:00,497 - INFO - Current time: 2024-11-11 10:11:00
+2024-11-11 10:11:00,936 - INFO - Current time: 2024-11-11 10:11:00
+2024-11-11 10:11:01,227 - INFO - Current time: 2024-11-11 10:11:01
+2024-11-11 10:11:01,615 - INFO - Current time: 2024-11-11 10:11:01
+2024-11-11 10:11:01,865 - INFO - Current time: 2024-11-11 10:11:01
+2024-11-11 10:11:02,631 - INFO - Current time: 2024-11-11 10:11:02
+2024-11-11 10:11:02,932 - INFO - Current time: 2024-11-11 10:11:02
+2024-11-11 10:11:03,671 - INFO - Current time: 2024-11-11 10:11:03
+2024-11-11 10:11:04,265 - INFO - Current time: 2024-11-11 10:11:04
+2024-11-11 10:11:04,932 - INFO - Current time: 2024-11-11 10:11:04
+2024-11-11 10:11:05,155 - INFO - Current time: 2024-11-11 10:11:05
+2024-11-11 10:11:05,538 - INFO - Current time: 2024-11-11 10:11:05
+2024-11-11 10:11:05,658 - INFO - Current time: 2024-11-11 10:11:05
+2024-11-11 10:11:06,054 - INFO - Current time: 2024-11-11 10:11:06
+2024-11-11 10:11:06,538 - INFO - Current time: 2024-11-11 10:11:06
+2024-11-11 10:11:06,541 - INFO - Current time: 2024-11-11 10:11:06
+2024-11-11 10:11:07,095 - INFO - Current time: 2024-11-11 10:11:07
+2024-11-11 10:11:07,396 - INFO - Current time: 2024-11-11 10:11:07
+2024-11-11 10:11:08,516 - INFO - Current time: 2024-11-11 10:11:08
+2024-11-11 10:11:09,378 - INFO - Current time: 2024-11-11 10:11:09
+2024-11-11 10:11:09,635 - INFO - Current time: 2024-11-11 10:11:09
+2024-11-11 10:11:09,881 - INFO - Current time: 2024-11-11 10:11:09
+2024-11-11 10:11:10,446 - INFO - Current time: 2024-11-11 10:11:10
+2024-11-11 10:11:10,646 - INFO - Current time: 2024-11-11 10:11:10
+2024-11-11 10:11:11,207 - INFO - Current time: 2024-11-11 10:11:11
+2024-11-11 10:11:11,428 - INFO - Current time: 2024-11-11 10:11:11
+2024-11-11 10:11:11,723 - INFO - Current time: 2024-11-11 10:11:11
+2024-11-11 10:11:12,271 - INFO - Current time: 2024-11-11 10:11:12
+2024-11-11 10:11:13,132 - INFO - Current time: 2024-11-11 10:11:13
+2024-11-11 10:11:13,751 - INFO - Current time: 2024-11-11 10:11:13
+2024-11-11 10:11:13,986 - INFO - Current time: 2024-11-11 10:11:13
+2024-11-11 10:11:14,261 - INFO - Current time: 2024-11-11 10:11:14
+2024-11-11 10:11:14,462 - INFO - Current time: 2024-11-11 10:11:14
+2024-11-11 10:11:14,994 - INFO - Current time: 2024-11-11 10:11:14
+2024-11-11 10:11:15,375 - INFO - Current time: 2024-11-11 10:11:15
+2024-11-11 10:11:16,348 - INFO - Current time: 2024-11-11 10:11:16
+2024-11-11 10:11:16,510 - INFO - Current time: 2024-11-11 10:11:16
+2024-11-11 10:11:17,120 - INFO - Current time: 2024-11-11 10:11:17
+2024-11-11 10:11:17,653 - INFO - Current time: 2024-11-11 10:11:17
+2024-11-11 10:11:18,117 - INFO - Current time: 2024-11-11 10:11:18
+2024-11-11 10:11:18,339 - INFO - Current time: 2024-11-11 10:11:18
+2024-11-11 10:11:18,494 - INFO - Current time: 2024-11-11 10:11:18
+2024-11-11 10:11:19,099 - INFO - Current time: 2024-11-11 10:11:19
+2024-11-11 10:11:19,719 - INFO - Current time: 2024-11-11 10:11:19
+2024-11-11 10:11:19,894 - INFO - Current time: 2024-11-11 10:11:19
+2024-11-11 10:11:20,354 - INFO - Current time: 2024-11-11 10:11:20
+2024-11-11 10:11:20,613 - INFO - Current time: 2024-11-11 10:11:20
+2024-11-11 10:11:20,917 - INFO - Current time: 2024-11-11 10:11:20
+2024-11-11 10:11:21,245 - INFO - Current time: 2024-11-11 10:11:21
+2024-11-11 10:11:22,321 - INFO - Current time: 2024-11-11 10:11:22
+2024-11-11 10:11:22,674 - INFO - Current time: 2024-11-11 10:11:22
+2024-11-11 10:11:23,027 - INFO - Current time: 2024-11-11 10:11:23
+2024-11-11 10:11:23,403 - INFO - Current time: 2024-11-11 10:11:23
+2024-11-11 10:11:23,873 - INFO - Current time: 2024-11-11 10:11:23
+2024-11-11 10:11:24,118 - INFO - Current time: 2024-11-11 10:11:24
+2024-11-11 10:11:24,856 - INFO - Current time: 2024-11-11 10:11:24
+2024-11-11 10:11:25,335 - INFO - Current time: 2024-11-11 10:11:25
+2024-11-11 10:11:25,341 - INFO - Current time: 2024-11-11 10:11:25
+2024-11-11 10:11:25,517 - INFO - Current time: 2024-11-11 10:11:25
+2024-11-11 10:11:26,559 - INFO - Current time: 2024-11-11 10:11:26
+2024-11-11 10:11:26,725 - INFO - Current time: 2024-11-11 10:11:26
+2024-11-11 10:11:27,447 - INFO - Current time: 2024-11-11 10:11:27
+2024-11-11 10:11:28,032 - INFO - Current time: 2024-11-11 10:11:28
+2024-11-11 10:11:28,456 - INFO - Current time: 2024-11-11 10:11:28
+2024-11-11 10:11:28,736 - INFO - Current time: 2024-11-11 10:11:28
+2024-11-11 10:11:28,953 - INFO - Current time: 2024-11-11 10:11:28
+2024-11-11 10:11:29,401 - INFO - Current time: 2024-11-11 10:11:29
+2024-11-11 10:11:29,908 - INFO - Current time: 2024-11-11 10:11:29
+2024-11-11 10:11:30,153 - INFO - Current time: 2024-11-11 10:11:30
+2024-11-11 10:11:30,899 - INFO - Current time: 2024-11-11 10:11:30
+2024-11-11 10:11:31,491 - INFO - Current time: 2024-11-11 10:11:31
+2024-11-11 10:11:32,192 - INFO - Current time: 2024-11-11 10:11:32
+2024-11-11 10:11:32,490 - INFO - Current time: 2024-11-11 10:11:32
+2024-11-11 10:11:32,913 - INFO - Current time: 2024-11-11 10:11:32
+2024-11-11 10:11:32,921 - INFO - Current time: 2024-11-11 10:11:32
+2024-11-11 10:11:33,155 - INFO - Current time: 2024-11-11 10:11:33
+2024-11-11 10:11:33,381 - INFO - Current time: 2024-11-11 10:11:33
+2024-11-11 10:11:33,613 - INFO - Current time: 2024-11-11 10:11:33
+2024-11-11 10:11:34,323 - INFO - Current time: 2024-11-11 10:11:34
+2024-11-11 10:11:35,196 - INFO - Current time: 2024-11-11 10:11:35
+2024-11-11 10:11:35,511 - INFO - Current time: 2024-11-11 10:11:35
+2024-11-11 10:11:35,790 - INFO - Current time: 2024-11-11 10:11:35
+2024-11-11 10:11:36,369 - INFO - Current time: 2024-11-11 10:11:36
+2024-11-11 10:11:37,044 - INFO - Current time: 2024-11-11 10:11:37
+2024-11-11 10:11:37,254 - INFO - Current time: 2024-11-11 10:11:37
+2024-11-11 10:11:37,810 - INFO - Current time: 2024-11-11 10:11:37
+2024-11-11 10:11:37,995 - INFO - Current time: 2024-11-11 10:11:37
+2024-11-11 10:11:38,235 - INFO - Current time: 2024-11-11 10:11:38
+2024-11-11 10:11:38,485 - INFO - Current time: 2024-11-11 10:11:38
+2024-11-11 10:11:38,915 - INFO - Current time: 2024-11-11 10:11:38
+2024-11-11 10:11:39,426 - INFO - Current time: 2024-11-11 10:11:39
+2024-11-11 10:11:40,222 - INFO - Current time: 2024-11-11 10:11:40
+2024-11-11 10:11:40,820 - INFO - Current time: 2024-11-11 10:11:40
+2024-11-11 10:11:41,061 - INFO - Current time: 2024-11-11 10:11:41
+2024-11-11 10:11:41,328 - INFO - Current time: 2024-11-11 10:11:41
+2024-11-11 10:11:42,274 - INFO - Current time: 2024-11-11 10:11:42
+2024-11-11 10:11:42,611 - INFO - Current time: 2024-11-11 10:11:42
+2024-11-11 10:11:42,993 - INFO - Current time: 2024-11-11 10:11:42
+2024-11-11 10:11:43,240 - INFO - Current time: 2024-11-11 10:11:43
+2024-11-11 10:11:43,539 - INFO - Current time: 2024-11-11 10:11:43
+2024-11-11 10:11:44,363 - INFO - Current time: 2024-11-11 10:11:44
+2024-11-11 10:11:44,608 - INFO - Current time: 2024-11-11 10:11:44
+2024-11-11 10:11:44,786 - INFO - Current time: 2024-11-11 10:11:44
+2024-11-11 10:11:45,502 - INFO - Current time: 2024-11-11 10:11:45
+2024-11-11 10:11:45,720 - INFO - Current time: 2024-11-11 10:11:45
+2024-11-11 10:11:45,968 - INFO - Current time: 2024-11-11 10:11:45
+2024-11-11 10:11:46,718 - INFO - Current time: 2024-11-11 10:11:46
+2024-11-11 10:11:47,300 - INFO - Current time: 2024-11-11 10:11:47
+2024-11-11 10:11:47,304 - INFO - Current time: 2024-11-11 10:11:47
+2024-11-11 10:11:47,931 - INFO - Current time: 2024-11-11 10:11:47
+2024-11-11 10:11:48,179 - INFO - Current time: 2024-11-11 10:11:48
+2024-11-11 10:11:48,407 - INFO - Current time: 2024-11-11 10:11:48
+2024-11-11 10:11:48,925 - INFO - Current time: 2024-11-11 10:11:48
+2024-11-11 10:11:50,124 - INFO - Current time: 2024-11-11 10:11:50
+2024-11-11 10:11:50,373 - INFO - Current time: 2024-11-11 10:11:50
+2024-11-11 10:11:50,691 - INFO - Current time: 2024-11-11 10:11:50
+2024-11-11 10:11:51,008 - INFO - Current time: 2024-11-11 10:11:51
+2024-11-11 10:11:51,008 - INFO - Current time: 2024-11-11 10:11:51
+2024-11-11 10:11:51,568 - INFO - Current time: 2024-11-11 10:11:51
+2024-11-11 10:11:51,965 - INFO - Current time: 2024-11-11 10:11:51
+2024-11-11 10:11:52,180 - INFO - Current time: 2024-11-11 10:11:52
+2024-11-11 10:11:52,783 - INFO - Current time: 2024-11-11 10:11:52
+2024-11-11 10:11:53,767 - INFO - Current time: 2024-11-11 10:11:53
+2024-11-11 10:11:54,029 - INFO - Current time: 2024-11-11 10:11:54
+2024-11-11 10:11:54,606 - INFO - Current time: 2024-11-11 10:11:54
+2024-11-11 10:11:54,849 - INFO - Current time: 2024-11-11 10:11:54
+2024-11-11 10:11:55,661 - INFO - Current time: 2024-11-11 10:11:55
+2024-11-11 10:11:56,378 - INFO - Current time: 2024-11-11 10:11:56
+2024-11-11 10:11:56,630 - INFO - Current time: 2024-11-11 10:11:56
+2024-11-11 10:11:57,189 - INFO - Current time: 2024-11-11 10:11:57
+2024-11-11 10:11:57,798 - INFO - Current time: 2024-11-11 10:11:57
+2024-11-11 10:11:58,592 - WARNING - No faces in frame 194 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id0_0006.mp4
+2024-11-11 10:11:59,963 - INFO - Current time: 2024-11-11 10:11:59
+2024-11-11 10:12:01,037 - INFO - Current time: 2024-11-11 10:12:01
+2024-11-11 10:12:01,669 - INFO - Current time: 2024-11-11 10:12:01
+2024-11-11 10:12:02,310 - INFO - Current time: 2024-11-11 10:12:02
+2024-11-11 10:12:02,837 - INFO - Current time: 2024-11-11 10:12:02
+2024-11-11 10:12:03,071 - INFO - Current time: 2024-11-11 10:12:03
+2024-11-11 10:12:03,299 - INFO - Current time: 2024-11-11 10:12:03
+2024-11-11 10:12:03,841 - INFO - Current time: 2024-11-11 10:12:03
+2024-11-11 10:12:04,519 - INFO - Current time: 2024-11-11 10:12:04
+2024-11-11 10:12:05,443 - INFO - Current time: 2024-11-11 10:12:05
+2024-11-11 10:12:06,340 - WARNING - No faces in frame 258 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id2_0007.mp4
+2024-11-11 10:12:06,418 - INFO - Current time: 2024-11-11 10:12:06
+2024-11-11 10:12:06,644 - INFO - Current time: 2024-11-11 10:12:06
+2024-11-11 10:12:06,824 - INFO - Current time: 2024-11-11 10:12:06
+2024-11-11 10:12:07,021 - INFO - Current time: 2024-11-11 10:12:07
+2024-11-11 10:12:07,517 - INFO - Current time: 2024-11-11 10:12:07
+2024-11-11 10:12:07,762 - INFO - Current time: 2024-11-11 10:12:07
+2024-11-11 10:12:08,006 - INFO - Current time: 2024-11-11 10:12:08
+2024-11-11 10:12:08,685 - INFO - Current time: 2024-11-11 10:12:08
+2024-11-11 10:12:08,800 - INFO - Current time: 2024-11-11 10:12:08
+2024-11-11 10:12:09,357 - INFO - Current time: 2024-11-11 10:12:09
+2024-11-11 10:12:10,242 - INFO - Current time: 2024-11-11 10:12:10
+2024-11-11 10:12:10,612 - INFO - Current time: 2024-11-11 10:12:10
+2024-11-11 10:12:11,307 - INFO - Current time: 2024-11-11 10:12:11
+2024-11-11 10:12:11,447 - INFO - Current time: 2024-11-11 10:12:11
+2024-11-11 10:12:11,626 - INFO - Current time: 2024-11-11 10:12:11
+2024-11-11 10:12:12,202 - INFO - Current time: 2024-11-11 10:12:12
+2024-11-11 10:12:12,757 - INFO - Current time: 2024-11-11 10:12:12
+2024-11-11 10:12:12,928 - INFO - Current time: 2024-11-11 10:12:12
+2024-11-11 10:12:13,285 - INFO - Current time: 2024-11-11 10:12:13
+2024-11-11 10:12:14,073 - INFO - Current time: 2024-11-11 10:12:14
+2024-11-11 10:12:14,114 - WARNING - No faces in frame 194 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id3_0006.mp4
+2024-11-11 10:12:14,960 - INFO - Current time: 2024-11-11 10:12:14
+2024-11-11 10:12:15,984 - INFO - Current time: 2024-11-11 10:12:15
+2024-11-11 10:12:17,455 - WARNING - No faces in frame 194 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id6_0006.mp4
+2024-11-11 10:12:17,914 - INFO - Current time: 2024-11-11 10:12:17
+2024-11-11 10:12:18,185 - INFO - Current time: 2024-11-11 10:12:18
+2024-11-11 10:12:18,858 - INFO - Current time: 2024-11-11 10:12:18
+2024-11-11 10:12:19,461 - INFO - Current time: 2024-11-11 10:12:19
+2024-11-11 10:12:19,812 - INFO - Current time: 2024-11-11 10:12:19
+2024-11-11 10:12:20,790 - INFO - Current time: 2024-11-11 10:12:20
+2024-11-11 10:12:20,794 - INFO - Current time: 2024-11-11 10:12:20
+2024-11-11 10:12:21,238 - INFO - Current time: 2024-11-11 10:12:21
+2024-11-11 10:12:21,714 - WARNING - No faces in frame 194 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id9_0006.mp4
+2024-11-11 10:12:22,668 - INFO - Current time: 2024-11-11 10:12:22
+2024-11-11 10:12:23,061 - INFO - Current time: 2024-11-11 10:12:23
+2024-11-11 10:12:23,068 - INFO - Current time: 2024-11-11 10:12:23
+2024-11-11 10:12:24,161 - INFO - Current time: 2024-11-11 10:12:24
+2024-11-11 10:12:24,376 - INFO - Current time: 2024-11-11 10:12:24
+2024-11-11 10:12:24,898 - INFO - Current time: 2024-11-11 10:12:24
+2024-11-11 10:12:24,905 - WARNING - No faces in frame 252 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id4_id9_0006.mp4
+2024-11-11 10:12:25,100 - INFO - Current time: 2024-11-11 10:12:25
+2024-11-11 10:12:25,330 - INFO - Current time: 2024-11-11 10:12:25
+2024-11-11 10:12:25,548 - INFO - Current time: 2024-11-11 10:12:25
+2024-11-11 10:12:25,751 - INFO - Current time: 2024-11-11 10:12:25
+2024-11-11 10:12:26,327 - INFO - Current time: 2024-11-11 10:12:26
+2024-11-11 10:12:27,361 - INFO - Current time: 2024-11-11 10:12:27
+2024-11-11 10:12:27,875 - INFO - Current time: 2024-11-11 10:12:27
+2024-11-11 10:12:28,161 - INFO - Current time: 2024-11-11 10:12:28
+2024-11-11 10:12:28,381 - INFO - Current time: 2024-11-11 10:12:28
+2024-11-11 10:12:28,648 - INFO - Current time: 2024-11-11 10:12:28
+2024-11-11 10:12:29,214 - INFO - Current time: 2024-11-11 10:12:29
+2024-11-11 10:12:29,401 - INFO - Current time: 2024-11-11 10:12:29
+2024-11-11 10:12:29,614 - INFO - Current time: 2024-11-11 10:12:29
+2024-11-11 10:12:30,625 - INFO - Current time: 2024-11-11 10:12:30
+2024-11-11 10:12:31,557 - INFO - Current time: 2024-11-11 10:12:31
+2024-11-11 10:12:32,202 - INFO - Current time: 2024-11-11 10:12:32
+2024-11-11 10:12:32,793 - INFO - Current time: 2024-11-11 10:12:32
+2024-11-11 10:12:34,262 - INFO - Current time: 2024-11-11 10:12:34
+2024-11-11 10:12:35,284 - INFO - Current time: 2024-11-11 10:12:35
+2024-11-11 10:12:35,916 - INFO - Current time: 2024-11-11 10:12:35
+2024-11-11 10:12:36,747 - INFO - Current time: 2024-11-11 10:12:36
+2024-11-11 10:12:36,990 - INFO - Current time: 2024-11-11 10:12:36
+2024-11-11 10:12:37,487 - INFO - Current time: 2024-11-11 10:12:37
+2024-11-11 10:12:38,193 - INFO - Current time: 2024-11-11 10:12:38
+2024-11-11 10:12:38,822 - INFO - Current time: 2024-11-11 10:12:38
+2024-11-11 10:12:39,702 - INFO - Current time: 2024-11-11 10:12:39
+2024-11-11 10:12:40,047 - INFO - Current time: 2024-11-11 10:12:40
+2024-11-11 10:12:40,771 - INFO - Current time: 2024-11-11 10:12:40
+2024-11-11 10:12:40,828 - INFO - Current time: 2024-11-11 10:12:40
+2024-11-11 10:12:41,725 - INFO - Current time: 2024-11-11 10:12:41
+2024-11-11 10:12:41,966 - INFO - Current time: 2024-11-11 10:12:41
+2024-11-11 10:12:42,444 - INFO - Current time: 2024-11-11 10:12:42
+2024-11-11 10:12:42,786 - INFO - Current time: 2024-11-11 10:12:42
+2024-11-11 10:12:43,394 - INFO - Current time: 2024-11-11 10:12:43
+2024-11-11 10:12:44,029 - INFO - Current time: 2024-11-11 10:12:44
+2024-11-11 10:12:44,459 - INFO - Current time: 2024-11-11 10:12:44
+2024-11-11 10:12:44,707 - INFO - Current time: 2024-11-11 10:12:44
+2024-11-11 10:12:45,038 - INFO - Current time: 2024-11-11 10:12:45
+2024-11-11 10:12:45,307 - INFO - Current time: 2024-11-11 10:12:45
+2024-11-11 10:12:45,570 - INFO - Current time: 2024-11-11 10:12:45
+2024-11-11 10:12:45,787 - INFO - Current time: 2024-11-11 10:12:45
+2024-11-11 10:12:46,095 - INFO - Current time: 2024-11-11 10:12:46
+2024-11-11 10:12:46,472 - INFO - Current time: 2024-11-11 10:12:46
+2024-11-11 10:12:46,730 - INFO - Current time: 2024-11-11 10:12:46
+2024-11-11 10:12:47,256 - INFO - Current time: 2024-11-11 10:12:47
+2024-11-11 10:12:48,333 - INFO - Current time: 2024-11-11 10:12:48
+2024-11-11 10:12:49,318 - INFO - Current time: 2024-11-11 10:12:49
+2024-11-11 10:12:49,992 - INFO - Current time: 2024-11-11 10:12:49
+2024-11-11 10:12:50,967 - INFO - Current time: 2024-11-11 10:12:50
+2024-11-11 10:12:51,272 - INFO - Current time: 2024-11-11 10:12:51
+2024-11-11 10:12:51,863 - INFO - Current time: 2024-11-11 10:12:51
+2024-11-11 10:12:53,290 - INFO - Current time: 2024-11-11 10:12:53
+2024-11-11 10:12:53,945 - INFO - Current time: 2024-11-11 10:12:53
+2024-11-11 10:12:54,546 - INFO - Current time: 2024-11-11 10:12:54
+2024-11-11 10:12:55,481 - INFO - Current time: 2024-11-11 10:12:55
+2024-11-11 10:12:56,359 - INFO - Current time: 2024-11-11 10:12:56
+2024-11-11 10:12:56,422 - INFO - Current time: 2024-11-11 10:12:56
+2024-11-11 10:12:56,683 - INFO - Current time: 2024-11-11 10:12:56
+2024-11-11 10:12:57,199 - INFO - Current time: 2024-11-11 10:12:57
+2024-11-11 10:12:58,161 - INFO - Current time: 2024-11-11 10:12:58
+2024-11-11 10:12:58,436 - INFO - Current time: 2024-11-11 10:12:58
+2024-11-11 10:12:58,604 - INFO - Current time: 2024-11-11 10:12:58
+2024-11-11 10:12:59,153 - INFO - Current time: 2024-11-11 10:12:59
+2024-11-11 10:13:00,035 - INFO - Current time: 2024-11-11 10:13:00
+2024-11-11 10:13:00,688 - INFO - Current time: 2024-11-11 10:13:00
+2024-11-11 10:13:00,983 - INFO - Current time: 2024-11-11 10:13:00
+2024-11-11 10:13:01,280 - INFO - Current time: 2024-11-11 10:13:01
+2024-11-11 10:13:01,388 - INFO - Current time: 2024-11-11 10:13:01
+2024-11-11 10:13:01,694 - INFO - Current time: 2024-11-11 10:13:01
+2024-11-11 10:13:02,389 - INFO - Current time: 2024-11-11 10:13:02
+2024-11-11 10:13:02,612 - INFO - Current time: 2024-11-11 10:13:02
+2024-11-11 10:13:03,008 - INFO - Current time: 2024-11-11 10:13:03
+2024-11-11 10:13:03,251 - INFO - Current time: 2024-11-11 10:13:03
+2024-11-11 10:13:03,535 - INFO - Current time: 2024-11-11 10:13:03
+2024-11-11 10:13:03,758 - INFO - Current time: 2024-11-11 10:13:03
+2024-11-11 10:13:04,073 - INFO - Current time: 2024-11-11 10:13:04
+2024-11-11 10:13:04,731 - INFO - Current time: 2024-11-11 10:13:04
+2024-11-11 10:13:05,414 - INFO - Current time: 2024-11-11 10:13:05
+2024-11-11 10:13:06,900 - INFO - Current time: 2024-11-11 10:13:06
+2024-11-11 10:13:07,777 - INFO - Current time: 2024-11-11 10:13:07
+2024-11-11 10:13:08,129 - INFO - Current time: 2024-11-11 10:13:08
+2024-11-11 10:13:08,593 - INFO - Current time: 2024-11-11 10:13:08
+2024-11-11 10:13:09,702 - WARNING - No faces in frame 221 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id7_id10_0009.mp4
+2024-11-11 10:13:10,183 - INFO - Current time: 2024-11-11 10:13:10
+2024-11-11 10:13:10,473 - INFO - Current time: 2024-11-11 10:13:10
+2024-11-11 10:13:11,483 - INFO - Current time: 2024-11-11 10:13:11
+2024-11-11 10:13:12,018 - INFO - Current time: 2024-11-11 10:13:12
+2024-11-11 10:13:13,513 - INFO - Current time: 2024-11-11 10:13:13
+2024-11-11 10:13:13,519 - INFO - Current time: 2024-11-11 10:13:13
+2024-11-11 10:13:13,521 - INFO - Current time: 2024-11-11 10:13:13
+2024-11-11 10:13:13,741 - INFO - Current time: 2024-11-11 10:13:13
+2024-11-11 10:13:13,940 - INFO - Current time: 2024-11-11 10:13:13
+2024-11-11 10:13:14,284 - INFO - Current time: 2024-11-11 10:13:14
+2024-11-11 10:13:15,005 - INFO - Current time: 2024-11-11 10:13:15
+2024-11-11 10:13:15,809 - INFO - Current time: 2024-11-11 10:13:15
+2024-11-11 10:13:16,374 - INFO - Current time: 2024-11-11 10:13:16
+2024-11-11 10:13:16,646 - INFO - Current time: 2024-11-11 10:13:16
+2024-11-11 10:13:17,131 - INFO - Current time: 2024-11-11 10:13:17
+2024-11-11 10:13:17,711 - INFO - Current time: 2024-11-11 10:13:17
+2024-11-11 10:13:17,937 - INFO - Current time: 2024-11-11 10:13:17
+2024-11-11 10:13:18,604 - INFO - Current time: 2024-11-11 10:13:18
+2024-11-11 10:13:18,933 - INFO - Current time: 2024-11-11 10:13:18
+2024-11-11 10:13:19,102 - INFO - Current time: 2024-11-11 10:13:19
+2024-11-11 10:13:19,400 - INFO - Current time: 2024-11-11 10:13:19
+2024-11-11 10:13:19,620 - INFO - Current time: 2024-11-11 10:13:19
+2024-11-11 10:13:19,909 - INFO - Current time: 2024-11-11 10:13:19
+2024-11-11 10:13:20,496 - INFO - Current time: 2024-11-11 10:13:20
+2024-11-11 10:13:21,175 - INFO - Current time: 2024-11-11 10:13:21
+2024-11-11 10:13:21,235 - WARNING - No faces in frame 38 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id8_id3_0003.mp4
+2024-11-11 10:13:21,516 - INFO - Current time: 2024-11-11 10:13:21
+2024-11-11 10:13:22,523 - INFO - Current time: 2024-11-11 10:13:22
+2024-11-11 10:13:23,853 - INFO - Current time: 2024-11-11 10:13:23
+2024-11-11 10:13:24,091 - INFO - Current time: 2024-11-11 10:13:24
+2024-11-11 10:13:24,362 - INFO - Current time: 2024-11-11 10:13:24
+2024-11-11 10:13:24,699 - INFO - Current time: 2024-11-11 10:13:24
+2024-11-11 10:13:24,908 - INFO - Current time: 2024-11-11 10:13:24
+2024-11-11 10:13:26,335 - WARNING - No faces in frame 38 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id8_id6_0003.mp4
+2024-11-11 10:13:26,337 - INFO - Current time: 2024-11-11 10:13:26
+2024-11-11 10:13:26,647 - INFO - Current time: 2024-11-11 10:13:26
+2024-11-11 10:13:27,532 - INFO - Current time: 2024-11-11 10:13:27
+2024-11-11 10:13:28,103 - WARNING - No faces in frame 38 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id8_id7_0003.mp4
+2024-11-11 10:13:30,111 - INFO - Current time: 2024-11-11 10:13:30
+2024-11-11 10:13:30,112 - INFO - Current time: 2024-11-11 10:13:30
+2024-11-11 10:13:30,372 - INFO - Current time: 2024-11-11 10:13:30
+2024-11-11 10:13:30,700 - INFO - Current time: 2024-11-11 10:13:30
+2024-11-11 10:13:31,066 - INFO - Current time: 2024-11-11 10:13:31
+2024-11-11 10:13:31,366 - INFO - Current time: 2024-11-11 10:13:31
+2024-11-11 10:13:32,015 - INFO - Current time: 2024-11-11 10:13:32
+2024-11-11 10:13:32,445 - WARNING - No faces in frame 38 of ../../../Research/Datasets/Celeb-DF-v1/Celeb-synthesis/id8_id9_0003.mp4
+2024-11-11 10:13:32,629 - INFO - Current time: 2024-11-11 10:13:32
+2024-11-11 10:13:32,851 - INFO - Current time: 2024-11-11 10:13:32
+2024-11-11 10:13:33,400 - INFO - Current time: 2024-11-11 10:13:33
+2024-11-11 10:13:34,278 - INFO - Current time: 2024-11-11 10:13:34
+2024-11-11 10:13:34,557 - INFO - Current time: 2024-11-11 10:13:34
+2024-11-11 10:13:35,083 - INFO - Current time: 2024-11-11 10:13:35
+2024-11-11 10:13:35,480 - INFO - Current time: 2024-11-11 10:13:35
+2024-11-11 10:13:35,846 - INFO - Current time: 2024-11-11 10:13:35
+2024-11-11 10:13:36,109 - INFO - Current time: 2024-11-11 10:13:36
+2024-11-11 10:13:36,453 - INFO - Current time: 2024-11-11 10:13:36
+2024-11-11 10:13:37,126 - INFO - Current time: 2024-11-11 10:13:37
+2024-11-11 10:13:37,398 - INFO - Current time: 2024-11-11 10:13:37
+2024-11-11 10:13:37,908 - INFO - Current time: 2024-11-11 10:13:37
+2024-11-11 10:13:38,159 - INFO - Current time: 2024-11-11 10:13:38
+2024-11-11 10:13:38,375 - INFO - Current time: 2024-11-11 10:13:38
+2024-11-11 10:13:38,757 - INFO - Current time: 2024-11-11 10:13:38
+2024-11-11 10:13:40,561 - INFO - Current time: 2024-11-11 10:13:40
+2024-11-11 10:13:40,814 - INFO - Current time: 2024-11-11 10:13:40
+2024-11-11 10:13:41,409 - INFO - Current time: 2024-11-11 10:13:41
+2024-11-11 10:13:41,883 - INFO - Current time: 2024-11-11 10:13:41
+2024-11-11 10:13:42,560 - INFO - Current time: 2024-11-11 10:13:42
+2024-11-11 10:13:43,163 - INFO - Current time: 2024-11-11 10:13:43
+2024-11-11 10:13:43,437 - INFO - Current time: 2024-11-11 10:13:43
+2024-11-11 10:13:43,646 - INFO - Current time: 2024-11-11 10:13:43
+2024-11-11 10:13:45,843 - INFO - Current time: 2024-11-11 10:13:45
+2024-11-11 10:13:47,138 - INFO - Current time: 2024-11-11 10:13:47
+2024-11-11 10:13:47,452 - INFO - Current time: 2024-11-11 10:13:47
+2024-11-11 10:13:48,375 - INFO - Current time: 2024-11-11 10:13:48
+2024-11-11 10:13:48,644 - INFO - Current time: 2024-11-11 10:13:48
+2024-11-11 10:13:48,940 - INFO - Current time: 2024-11-11 10:13:48
+2024-11-11 10:13:49,529 - INFO - Current time: 2024-11-11 10:13:49
+2024-11-11 10:13:49,698 - INFO - Current time: 2024-11-11 10:13:49
+2024-11-11 10:13:50,414 - INFO - Current time: 2024-11-11 10:13:50
+2024-11-11 10:13:50,930 - INFO - Current time: 2024-11-11 10:13:50
+2024-11-11 10:13:51,229 - INFO - Current time: 2024-11-11 10:13:51
+2024-11-11 10:13:51,675 - INFO - Current time: 2024-11-11 10:13:51
+2024-11-11 10:13:51,927 - INFO - Current time: 2024-11-11 10:13:51
+2024-11-11 10:13:52,296 - INFO - Current time: 2024-11-11 10:13:52
+2024-11-11 10:13:52,599 - INFO - Current time: 2024-11-11 10:13:52
+2024-11-11 10:13:52,837 - INFO - Current time: 2024-11-11 10:13:52
+2024-11-11 10:13:53,142 - INFO - Current time: 2024-11-11 10:13:53
+2024-11-11 10:13:53,700 - INFO - Current time: 2024-11-11 10:13:53
+2024-11-11 10:13:54,302 - INFO - Current time: 2024-11-11 10:13:54
+2024-11-11 10:13:54,889 - INFO - Current time: 2024-11-11 10:13:54
+2024-11-11 10:13:55,516 - INFO - Current time: 2024-11-11 10:13:55
+2024-11-11 10:13:55,795 - INFO - Current time: 2024-11-11 10:13:55
+2024-11-11 10:13:55,957 - INFO - Current time: 2024-11-11 10:13:55
+2024-11-11 10:13:56,924 - INFO - Current time: 2024-11-11 10:13:56
+2024-11-11 10:13:57,893 - INFO - Current time: 2024-11-11 10:13:57
+2024-11-11 10:13:58,224 - INFO - Current time: 2024-11-11 10:13:58
+2024-11-11 10:13:59,490 - INFO - Current time: 2024-11-11 10:13:59
+2024-11-11 10:13:59,751 - INFO - Current time: 2024-11-11 10:13:59
+2024-11-11 10:13:59,961 - INFO - Current time: 2024-11-11 10:13:59
+2024-11-11 10:14:00,365 - INFO - Current time: 2024-11-11 10:14:00
+2024-11-11 10:14:01,135 - INFO - Current time: 2024-11-11 10:14:01
+2024-11-11 10:14:01,766 - INFO - Current time: 2024-11-11 10:14:01
+2024-11-11 10:14:02,944 - INFO - Current time: 2024-11-11 10:14:02
+2024-11-11 10:14:03,899 - INFO - Current time: 2024-11-11 10:14:03
+2024-11-11 10:14:04,559 - INFO - Current time: 2024-11-11 10:14:04
+2024-11-11 10:14:05,315 - INFO - Current time: 2024-11-11 10:14:05
+2024-11-11 10:14:05,534 - INFO - Current time: 2024-11-11 10:14:05
+2024-11-11 10:14:06,169 - INFO - Current time: 2024-11-11 10:14:06
+2024-11-11 10:14:06,731 - INFO - Current time: 2024-11-11 10:14:06
+2024-11-11 10:14:07,064 - INFO - Current time: 2024-11-11 10:14:07
+2024-11-11 10:14:07,241 - INFO - Current time: 2024-11-11 10:14:07
+2024-11-11 10:14:08,504 - INFO - Current time: 2024-11-11 10:14:08
+2024-11-11 10:14:08,727 - INFO - Current time: 2024-11-11 10:14:08
+2024-11-11 10:14:08,877 - INFO - Current time: 2024-11-11 10:14:08
+2024-11-11 10:14:09,308 - INFO - Current time: 2024-11-11 10:14:09
+2024-11-11 10:14:09,368 - INFO - Current time: 2024-11-11 10:14:09
+2024-11-11 10:14:09,792 - INFO - Current time: 2024-11-11 10:14:09
+2024-11-11 10:14:10,088 - INFO - Current time: 2024-11-11 10:14:10
+2024-11-11 10:14:10,204 - INFO - Current time: 2024-11-11 10:14:10
+2024-11-11 10:14:10,448 - INFO - Current time: 2024-11-11 10:14:10
+2024-11-11 10:14:10,777 - INFO - Current time: 2024-11-11 10:14:10
+2024-11-11 10:14:10,855 - INFO - Current time: 2024-11-11 10:14:10
+2024-11-11 10:14:11,014 - INFO - Current time: 2024-11-11 10:14:11
+2024-11-11 10:14:11,067 - INFO - Current time: 2024-11-11 10:14:11
+2024-11-11 10:14:11,120 - INFO - Current time: 2024-11-11 10:14:11
+2024-11-11 10:14:11,899 - INFO - Current time: 2024-11-11 10:14:11
+2024-11-11 10:14:12,265 - INFO - Current time: 2024-11-11 10:14:12
+2024-11-11 10:14:12,332 - INFO - Current time: 2024-11-11 10:14:12
+2024-11-11 10:14:12,509 - INFO - Current time: 2024-11-11 10:14:12
+2024-11-11 10:14:13,070 - INFO - Current time: 2024-11-11 10:14:13
+2024-11-11 10:14:13,070 - INFO - Current time: 2024-11-11 10:14:13
+2024-11-11 10:14:13,129 - INFO - Current time: 2024-11-11 10:14:13
+2024-11-11 10:14:13,394 - INFO - Current time: 2024-11-11 10:14:13
+2024-11-11 10:14:13,497 - INFO - Current time: 2024-11-11 10:14:13
+2024-11-11 10:14:14,136 - INFO - Current time: 2024-11-11 10:14:14
+2024-11-11 10:14:14,154 - INFO - Current time: 2024-11-11 10:14:14
+2024-11-11 10:14:14,778 - INFO - Current time: 2024-11-11 10:14:14
+2024-11-11 10:14:15,269 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,330 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,428 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,469 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,621 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,730 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:15,997 - INFO - Current time: 2024-11-11 10:14:15
+2024-11-11 10:14:16,011 - INFO - Current time: 2024-11-11 10:14:16
+2024-11-11 10:14:16,078 - INFO - Current time: 2024-11-11 10:14:16
+2024-11-11 10:14:16,261 - INFO - Current time: 2024-11-11 10:14:16
+2024-11-11 10:14:16,415 - INFO - Current time: 2024-11-11 10:14:16
+2024-11-11 10:14:16,415 - INFO - Total time taken: 6.60 minutes
+2024-11-11 10:14:16,437 - INFO - 250 videos found in ../../../Research/Datasets/Celeb-DF-v1/YouTube-real
+2024-11-11 10:14:26,264 - WARNING - No faces in frame 149 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00010.mp4
+2024-11-11 10:14:28,023 - WARNING - No faces in frame 217 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00012.mp4
+2024-11-11 10:14:29,213 - WARNING - No faces in frame 287 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00025.mp4
+2024-11-11 10:14:29,540 - WARNING - No faces in frame 235 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00016.mp4
+2024-11-11 10:14:29,710 - WARNING - No faces in frame 246 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00016.mp4
+2024-11-11 10:14:31,761 - INFO - Current time: 2024-11-11 10:14:31
+2024-11-11 10:14:32,147 - INFO - Current time: 2024-11-11 10:14:32
+2024-11-11 10:14:32,468 - INFO - Current time: 2024-11-11 10:14:32
+2024-11-11 10:14:32,960 - INFO - Current time: 2024-11-11 10:14:32
+2024-11-11 10:14:33,189 - INFO - Current time: 2024-11-11 10:14:33
+2024-11-11 10:14:33,774 - INFO - Current time: 2024-11-11 10:14:33
+2024-11-11 10:14:33,903 - INFO - Current time: 2024-11-11 10:14:33
+2024-11-11 10:14:33,905 - INFO - Current time: 2024-11-11 10:14:33
+2024-11-11 10:14:34,280 - INFO - Current time: 2024-11-11 10:14:34
+2024-11-11 10:14:34,282 - INFO - Current time: 2024-11-11 10:14:34
+2024-11-11 10:14:34,537 - INFO - Current time: 2024-11-11 10:14:34
+2024-11-11 10:14:34,768 - INFO - Current time: 2024-11-11 10:14:34
+2024-11-11 10:14:35,188 - INFO - Current time: 2024-11-11 10:14:35
+2024-11-11 10:14:35,189 - INFO - Current time: 2024-11-11 10:14:35
+2024-11-11 10:14:35,397 - INFO - Current time: 2024-11-11 10:14:35
+2024-11-11 10:14:35,757 - INFO - Current time: 2024-11-11 10:14:35
+2024-11-11 10:14:36,271 - INFO - Current time: 2024-11-11 10:14:36
+2024-11-11 10:14:36,271 - INFO - Current time: 2024-11-11 10:14:36
+2024-11-11 10:14:36,274 - INFO - Current time: 2024-11-11 10:14:36
+2024-11-11 10:14:36,537 - INFO - Current time: 2024-11-11 10:14:36
+2024-11-11 10:14:36,789 - INFO - Current time: 2024-11-11 10:14:36
+2024-11-11 10:14:37,069 - INFO - Current time: 2024-11-11 10:14:37
+2024-11-11 10:14:37,247 - INFO - Current time: 2024-11-11 10:14:37
+2024-11-11 10:14:37,622 - INFO - Current time: 2024-11-11 10:14:37
+2024-11-11 10:14:37,622 - INFO - Current time: 2024-11-11 10:14:37
+2024-11-11 10:14:37,893 - INFO - Current time: 2024-11-11 10:14:37
+2024-11-11 10:14:38,039 - INFO - Current time: 2024-11-11 10:14:38
+2024-11-11 10:14:38,317 - INFO - Current time: 2024-11-11 10:14:38
+2024-11-11 10:14:38,700 - INFO - Current time: 2024-11-11 10:14:38
+2024-11-11 10:14:39,003 - INFO - Current time: 2024-11-11 10:14:39
+2024-11-11 10:14:39,204 - INFO - Current time: 2024-11-11 10:14:39
+2024-11-11 10:14:39,747 - INFO - Current time: 2024-11-11 10:14:39
+2024-11-11 10:14:40,768 - WARNING - No faces in frame 61 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00060.mp4
+2024-11-11 10:14:43,981 - WARNING - No faces in frame 251 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00039.mp4
+2024-11-11 10:14:47,324 - WARNING - No faces in frame 413 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00039.mp4
+2024-11-11 10:14:47,832 - INFO - Current time: 2024-11-11 10:14:47
+2024-11-11 10:14:47,984 - INFO - Current time: 2024-11-11 10:14:47
+2024-11-11 10:14:48,294 - INFO - Current time: 2024-11-11 10:14:48
+2024-11-11 10:14:48,633 - INFO - Current time: 2024-11-11 10:14:48
+2024-11-11 10:14:48,971 - INFO - Current time: 2024-11-11 10:14:48
+2024-11-11 10:14:49,141 - INFO - Current time: 2024-11-11 10:14:49
+2024-11-11 10:14:49,390 - INFO - Current time: 2024-11-11 10:14:49
+2024-11-11 10:14:49,795 - WARNING - No faces in frame 402 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00054.mp4
+2024-11-11 10:14:49,803 - INFO - Current time: 2024-11-11 10:14:49
+2024-11-11 10:14:49,995 - INFO - Current time: 2024-11-11 10:14:49
+2024-11-11 10:14:50,239 - INFO - Current time: 2024-11-11 10:14:50
+2024-11-11 10:14:51,256 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,258 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,525 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,525 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,527 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,530 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:51,689 - INFO - Current time: 2024-11-11 10:14:51
+2024-11-11 10:14:52,198 - INFO - Current time: 2024-11-11 10:14:52
+2024-11-11 10:14:52,543 - INFO - Current time: 2024-11-11 10:14:52
+2024-11-11 10:14:52,543 - INFO - Current time: 2024-11-11 10:14:52
+2024-11-11 10:14:52,829 - INFO - Current time: 2024-11-11 10:14:52
+2024-11-11 10:14:53,155 - INFO - Current time: 2024-11-11 10:14:53
+2024-11-11 10:14:53,416 - INFO - Current time: 2024-11-11 10:14:53
+2024-11-11 10:14:53,636 - INFO - Current time: 2024-11-11 10:14:53
+2024-11-11 10:14:53,896 - INFO - Current time: 2024-11-11 10:14:53
+2024-11-11 10:14:54,312 - INFO - Current time: 2024-11-11 10:14:54
+2024-11-11 10:14:54,516 - INFO - Current time: 2024-11-11 10:14:54
+2024-11-11 10:14:54,518 - INFO - Current time: 2024-11-11 10:14:54
+2024-11-11 10:14:55,375 - INFO - Current time: 2024-11-11 10:14:55
+2024-11-11 10:14:55,375 - INFO - Current time: 2024-11-11 10:14:55
+2024-11-11 10:14:55,377 - INFO - Current time: 2024-11-11 10:14:55
+2024-11-11 10:14:56,099 - WARNING - No faces in frame 476 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00063.mp4
+2024-11-11 10:14:56,258 - INFO - Current time: 2024-11-11 10:14:56
+2024-11-11 10:14:59,298 - WARNING - No faces in frame 194 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00092.mp4
+2024-11-11 10:15:00,216 - WARNING - No faces in frame 250 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-11-11 10:15:00,516 - WARNING - No faces in frame 264 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-11-11 10:15:01,670 - WARNING - No faces in frame 319 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-11-11 10:15:01,685 - WARNING - No faces in frame 317 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00088.mp4
+2024-11-11 10:15:03,426 - WARNING - No faces in frame 329 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00095.mp4
+2024-11-11 10:15:04,106 - INFO - Current time: 2024-11-11 10:15:04
+2024-11-11 10:15:04,311 - INFO - Current time: 2024-11-11 10:15:04
+2024-11-11 10:15:04,555 - INFO - Current time: 2024-11-11 10:15:04
+2024-11-11 10:15:05,530 - INFO - Current time: 2024-11-11 10:15:05
+2024-11-11 10:15:05,587 - INFO - Current time: 2024-11-11 10:15:05
+2024-11-11 10:15:05,588 - INFO - Current time: 2024-11-11 10:15:05
+2024-11-11 10:15:06,101 - INFO - Current time: 2024-11-11 10:15:06
+2024-11-11 10:15:06,544 - INFO - Current time: 2024-11-11 10:15:06
+2024-11-11 10:15:07,103 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,363 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,420 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,423 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,423 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,630 - INFO - Current time: 2024-11-11 10:15:07
+2024-11-11 10:15:07,854 - WARNING - No faces in frame 0 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-11-11 10:15:08,081 - INFO - Current time: 2024-11-11 10:15:08
+2024-11-11 10:15:08,359 - INFO - Current time: 2024-11-11 10:15:08
+2024-11-11 10:15:09,579 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,583 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,588 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,805 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,806 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,808 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:09,815 - INFO - Current time: 2024-11-11 10:15:09
+2024-11-11 10:15:10,223 - INFO - Current time: 2024-11-11 10:15:10
+2024-11-11 10:15:10,474 - INFO - Current time: 2024-11-11 10:15:10
+2024-11-11 10:15:10,781 - INFO - Current time: 2024-11-11 10:15:10
+2024-11-11 10:15:10,782 - INFO - Current time: 2024-11-11 10:15:10
+2024-11-11 10:15:11,464 - INFO - Current time: 2024-11-11 10:15:11
+2024-11-11 10:15:11,969 - INFO - Current time: 2024-11-11 10:15:11
+2024-11-11 10:15:12,158 - INFO - Current time: 2024-11-11 10:15:12
+2024-11-11 10:15:12,407 - INFO - Current time: 2024-11-11 10:15:12
+2024-11-11 10:15:12,727 - WARNING - No faces in frame 63 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00106.mp4
+2024-11-11 10:15:12,963 - INFO - Current time: 2024-11-11 10:15:12
+2024-11-11 10:15:13,936 - WARNING - No faces in frame 84 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-11-11 10:15:16,009 - WARNING - No faces in frame 213 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00103.mp4
+2024-11-11 10:15:16,077 - WARNING - No faces in frame 149 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-11-11 10:15:18,709 - WARNING - No faces in frame 338 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00102.mp4
+2024-11-11 10:15:19,555 - WARNING - No faces in frame 298 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-11-11 10:15:20,122 - INFO - Current time: 2024-11-11 10:15:20
+2024-11-11 10:15:20,457 - WARNING - No faces in frame 263 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-11-11 10:15:20,627 - INFO - Current time: 2024-11-11 10:15:20
+2024-11-11 10:15:21,254 - INFO - Current time: 2024-11-11 10:15:21
+2024-11-11 10:15:21,492 - INFO - Current time: 2024-11-11 10:15:21
+2024-11-11 10:15:21,741 - INFO - Current time: 2024-11-11 10:15:21
+2024-11-11 10:15:22,345 - INFO - Current time: 2024-11-11 10:15:22
+2024-11-11 10:15:22,726 - INFO - Current time: 2024-11-11 10:15:22
+2024-11-11 10:15:22,960 - INFO - Current time: 2024-11-11 10:15:22
+2024-11-11 10:15:23,381 - INFO - Current time: 2024-11-11 10:15:23
+2024-11-11 10:15:23,589 - INFO - Current time: 2024-11-11 10:15:23
+2024-11-11 10:15:23,765 - INFO - Current time: 2024-11-11 10:15:23
+2024-11-11 10:15:24,029 - INFO - Current time: 2024-11-11 10:15:24
+2024-11-11 10:15:24,339 - INFO - Current time: 2024-11-11 10:15:24
+2024-11-11 10:15:24,655 - INFO - Current time: 2024-11-11 10:15:24
+2024-11-11 10:15:24,656 - INFO - Current time: 2024-11-11 10:15:24
+2024-11-11 10:15:24,820 - INFO - Current time: 2024-11-11 10:15:24
+2024-11-11 10:15:25,107 - WARNING - No faces in frame 406 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-11-11 10:15:25,298 - INFO - Current time: 2024-11-11 10:15:25
+2024-11-11 10:15:25,457 - INFO - Current time: 2024-11-11 10:15:25
+2024-11-11 10:15:26,031 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:26,339 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:26,339 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:26,340 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:26,554 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:26,767 - INFO - Current time: 2024-11-11 10:15:26
+2024-11-11 10:15:27,312 - INFO - Current time: 2024-11-11 10:15:27
+2024-11-11 10:15:27,529 - INFO - Current time: 2024-11-11 10:15:27
+2024-11-11 10:15:27,691 - INFO - Current time: 2024-11-11 10:15:27
+2024-11-11 10:15:27,842 - INFO - Current time: 2024-11-11 10:15:27
+2024-11-11 10:15:28,178 - WARNING - No faces in frame 0 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-11-11 10:15:28,522 - INFO - Current time: 2024-11-11 10:15:28
+2024-11-11 10:15:28,876 - INFO - Current time: 2024-11-11 10:15:28
+2024-11-11 10:15:28,937 - INFO - Current time: 2024-11-11 10:15:28
+2024-11-11 10:15:29,210 - WARNING - No faces in frame 102 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00130.mp4
+2024-11-11 10:15:30,057 - INFO - Current time: 2024-11-11 10:15:30
+2024-11-11 10:15:33,891 - WARNING - No faces in frame 281 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00130.mp4
+2024-11-11 10:15:36,322 - WARNING - No faces in frame 333 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00131.mp4
+2024-11-11 10:15:36,342 - WARNING - No faces in frame 459 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00128.mp4
+2024-11-11 10:15:36,574 - INFO - Current time: 2024-11-11 10:15:36
+2024-11-11 10:15:36,779 - WARNING - No faces in frame 344 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00131.mp4
+2024-11-11 10:15:37,135 - INFO - Current time: 2024-11-11 10:15:37
+2024-11-11 10:15:37,439 - INFO - Current time: 2024-11-11 10:15:37
+2024-11-11 10:15:38,018 - INFO - Current time: 2024-11-11 10:15:38
+2024-11-11 10:15:38,214 - INFO - Current time: 2024-11-11 10:15:38
+2024-11-11 10:15:38,278 - WARNING - No faces in frame 325 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-11-11 10:15:38,446 - INFO - Current time: 2024-11-11 10:15:38
+2024-11-11 10:15:38,688 - INFO - Current time: 2024-11-11 10:15:38
+2024-11-11 10:15:39,183 - INFO - Current time: 2024-11-11 10:15:39
+2024-11-11 10:15:39,411 - INFO - Current time: 2024-11-11 10:15:39
+2024-11-11 10:15:39,982 - INFO - Current time: 2024-11-11 10:15:39
+2024-11-11 10:15:40,038 - INFO - Current time: 2024-11-11 10:15:40
+2024-11-11 10:15:40,098 - INFO - Current time: 2024-11-11 10:15:40
+2024-11-11 10:15:40,625 - INFO - Current time: 2024-11-11 10:15:40
+2024-11-11 10:15:40,906 - WARNING - No faces in frame 374 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-11-11 10:15:41,060 - INFO - Current time: 2024-11-11 10:15:41
+2024-11-11 10:15:41,310 - INFO - Current time: 2024-11-11 10:15:41
+2024-11-11 10:15:41,540 - INFO - Current time: 2024-11-11 10:15:41
+2024-11-11 10:15:41,898 - INFO - Current time: 2024-11-11 10:15:41
+2024-11-11 10:15:42,009 - INFO - Current time: 2024-11-11 10:15:42
+2024-11-11 10:15:42,162 - INFO - Current time: 2024-11-11 10:15:42
+2024-11-11 10:15:42,719 - INFO - Current time: 2024-11-11 10:15:42
+2024-11-11 10:15:42,788 - INFO - Current time: 2024-11-11 10:15:42
+2024-11-11 10:15:43,006 - INFO - Current time: 2024-11-11 10:15:43
+2024-11-11 10:15:43,220 - INFO - Current time: 2024-11-11 10:15:43
+2024-11-11 10:15:43,491 - INFO - Current time: 2024-11-11 10:15:43
+2024-11-11 10:15:43,778 - INFO - Current time: 2024-11-11 10:15:43
+2024-11-11 10:15:44,110 - INFO - Current time: 2024-11-11 10:15:44
+2024-11-11 10:15:44,530 - INFO - Current time: 2024-11-11 10:15:44
+2024-11-11 10:15:44,690 - INFO - Current time: 2024-11-11 10:15:44
+2024-11-11 10:15:44,903 - INFO - Current time: 2024-11-11 10:15:44
+2024-11-11 10:15:45,208 - INFO - Current time: 2024-11-11 10:15:45
+2024-11-11 10:15:45,792 - INFO - Current time: 2024-11-11 10:15:45
+2024-11-11 10:15:46,274 - INFO - Current time: 2024-11-11 10:15:46
+2024-11-11 10:15:47,619 - WARNING - No faces in frame 168 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00168.mp4
+2024-11-11 10:15:51,629 - WARNING - No faces in frame 318 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00177.mp4
+2024-11-11 10:15:52,785 - WARNING - No faces in frame 313 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00170.mp4
+2024-11-11 10:15:53,012 - WARNING - No faces in frame 301 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-11-11 10:15:53,113 - WARNING - No faces in frame 378 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00171.mp4
+2024-11-11 10:15:53,275 - WARNING - No faces in frame 314 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-11-11 10:15:53,880 - INFO - Current time: 2024-11-11 10:15:53
+2024-11-11 10:15:54,123 - INFO - Current time: 2024-11-11 10:15:54
+2024-11-11 10:15:54,410 - INFO - Current time: 2024-11-11 10:15:54
+2024-11-11 10:15:54,657 - INFO - Current time: 2024-11-11 10:15:54
+2024-11-11 10:15:55,307 - INFO - Current time: 2024-11-11 10:15:55
+2024-11-11 10:15:55,769 - INFO - Current time: 2024-11-11 10:15:55
+2024-11-11 10:15:56,171 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:56,336 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:56,344 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:56,557 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:56,768 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:56,769 - INFO - Current time: 2024-11-11 10:15:56
+2024-11-11 10:15:57,259 - WARNING - No faces in frame 390 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-11-11 10:15:57,319 - INFO - Current time: 2024-11-11 10:15:57
+2024-11-11 10:15:57,474 - INFO - Current time: 2024-11-11 10:15:57
+2024-11-11 10:15:57,964 - INFO - Current time: 2024-11-11 10:15:57
+2024-11-11 10:15:58,191 - INFO - Current time: 2024-11-11 10:15:58
+2024-11-11 10:15:58,403 - INFO - Current time: 2024-11-11 10:15:58
+2024-11-11 10:15:59,147 - INFO - Current time: 2024-11-11 10:15:59
+2024-11-11 10:15:59,401 - INFO - Current time: 2024-11-11 10:15:59
+2024-11-11 10:15:59,836 - INFO - Current time: 2024-11-11 10:15:59
+2024-11-11 10:16:00,043 - INFO - Current time: 2024-11-11 10:16:00
+2024-11-11 10:16:00,299 - INFO - Current time: 2024-11-11 10:16:00
+2024-11-11 10:16:00,300 - INFO - Current time: 2024-11-11 10:16:00
+2024-11-11 10:16:01,253 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:01,318 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:01,320 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:01,327 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:01,334 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:01,944 - INFO - Current time: 2024-11-11 10:16:01
+2024-11-11 10:16:02,058 - INFO - Current time: 2024-11-11 10:16:02
+2024-11-11 10:16:02,352 - WARNING - No faces in frame 14 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00213.mp4
+2024-11-11 10:16:02,367 - INFO - Current time: 2024-11-11 10:16:02
+2024-11-11 10:16:02,654 - INFO - Current time: 2024-11-11 10:16:02
+2024-11-11 10:16:03,647 - WARNING - No faces in frame 62 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-11-11 10:16:03,823 - WARNING - No faces in frame 36 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-11-11 10:16:04,063 - WARNING - No faces in frame 40 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-11-11 10:16:04,693 - WARNING - No faces in frame 124 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-11-11 10:16:05,249 - WARNING - No faces in frame 155 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-11-11 10:16:05,300 - WARNING - No faces in frame 132 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00212.mp4
+2024-11-11 10:16:05,985 - WARNING - No faces in frame 192 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00213.mp4
+2024-11-11 10:16:07,398 - WARNING - No faces in frame 92 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-11-11 10:16:07,596 - WARNING - No faces in frame 350 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00195.mp4
+2024-11-11 10:16:07,625 - WARNING - No faces in frame 96 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-11-11 10:16:07,838 - WARNING - No faces in frame 100 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-11-11 10:16:09,218 - INFO - Current time: 2024-11-11 10:16:09
+2024-11-11 10:16:09,955 - INFO - Current time: 2024-11-11 10:16:09
+2024-11-11 10:16:10,015 - INFO - Current time: 2024-11-11 10:16:10
+2024-11-11 10:16:10,225 - WARNING - No faces in frame 0 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00226.mp4
+2024-11-11 10:16:10,596 - INFO - Current time: 2024-11-11 10:16:10
+2024-11-11 10:16:10,762 - INFO - Current time: 2024-11-11 10:16:10
+2024-11-11 10:16:11,359 - INFO - Current time: 2024-11-11 10:16:11
+2024-11-11 10:16:11,509 - INFO - Current time: 2024-11-11 10:16:11
+2024-11-11 10:16:12,084 - INFO - Current time: 2024-11-11 10:16:12
+2024-11-11 10:16:12,523 - INFO - Current time: 2024-11-11 10:16:12
+2024-11-11 10:16:12,778 - INFO - Current time: 2024-11-11 10:16:12
+2024-11-11 10:16:12,778 - INFO - Current time: 2024-11-11 10:16:12
+2024-11-11 10:16:12,778 - INFO - Current time: 2024-11-11 10:16:12
+2024-11-11 10:16:13,348 - INFO - Current time: 2024-11-11 10:16:13
+2024-11-11 10:16:13,820 - INFO - Current time: 2024-11-11 10:16:13
+2024-11-11 10:16:13,829 - WARNING - No faces in frame 395 of ../../../Research/Datasets/Celeb-DF-v1/YouTube-real/00211.mp4
+2024-11-11 10:16:14,110 - INFO - Current time: 2024-11-11 10:16:14
+2024-11-11 10:16:14,319 - INFO - Current time: 2024-11-11 10:16:14
+2024-11-11 10:16:14,522 - INFO - Current time: 2024-11-11 10:16:14
+2024-11-11 10:16:14,821 - INFO - Current time: 2024-11-11 10:16:14
+2024-11-11 10:16:15,273 - INFO - Current time: 2024-11-11 10:16:15
+2024-11-11 10:16:15,424 - INFO - Current time: 2024-11-11 10:16:15
+2024-11-11 10:16:15,684 - INFO - Current time: 2024-11-11 10:16:15
+2024-11-11 10:16:15,896 - INFO - Current time: 2024-11-11 10:16:15
+2024-11-11 10:16:16,166 - INFO - Current time: 2024-11-11 10:16:16
+2024-11-11 10:16:16,648 - INFO - Current time: 2024-11-11 10:16:16
+2024-11-11 10:16:17,024 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:17,139 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:17,139 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:17,464 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:17,643 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:17,809 - INFO - Current time: 2024-11-11 10:16:17
+2024-11-11 10:16:18,113 - INFO - Current time: 2024-11-11 10:16:18
+2024-11-11 10:16:18,351 - INFO - Current time: 2024-11-11 10:16:18
+2024-11-11 10:16:22,313 - INFO - Current time: 2024-11-11 10:16:22
+2024-11-11 10:16:22,768 - INFO - Current time: 2024-11-11 10:16:22
+2024-11-11 10:16:23,141 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,224 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,241 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,404 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,453 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,665 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,718 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,720 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,810 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,927 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:23,970 - INFO - Current time: 2024-11-11 10:16:23
+2024-11-11 10:16:24,020 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,038 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,085 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,098 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,117 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,164 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,193 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,295 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,312 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,356 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,639 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,675 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,749 - INFO - Current time: 2024-11-11 10:16:24
+2024-11-11 10:16:24,749 - INFO - Total time taken: 2.14 minutes
+2024-11-11 10:16:24,758 - INFO - Face cropping complete!
