@@ -260,7 +260,7 @@ class UCFDetector(AbstractDetector):
             self.correct += correct
             self.total += data_dict['label'].size(0)
 
-            pred_dict = {'cls': out_sha, 'feat': sha_feat}
+            pred_dict = {'cls': out_sha, 'prob': prob_sha, 'feat': sha_feat}
             return  pred_dict
 
         bs = f_share.size(0)
