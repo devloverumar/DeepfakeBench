@@ -84,8 +84,8 @@ class CoreDetector(AbstractDetector):
         loss_func = loss_class()
         return loss_func
     
-    def features(self, data_dict: dict) -> torch.tensor:
-        return self.backbone.features(data_dict['image'])
+    def features(self, data_dict:  torch.tensor) -> torch.tensor:
+        return self.backbone.features(data_dict)
 
     def classifier(self, features: torch.tensor) -> torch.tensor:
         return self.backbone.classifier(features)
@@ -120,5 +120,5 @@ class CoreDetector(AbstractDetector):
         # build the prediction dict for each output
         pred_dict = {'cls': pred, 'prob': prob, 'feat': features, 'core_feat': core_feat}
 
-        return pred_dict
+        return pred
 
