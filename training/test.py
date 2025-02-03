@@ -8,6 +8,7 @@ import cv2
 import random
 import datetime
 import time
+import torchattacks
 import yaml
 import pickle
 from tqdm import tqdm
@@ -92,9 +93,10 @@ def choose_metric(config):
     return metric_scoring
 
 
-def test_one_dataset(model, data_loader):
+def test_one_dataset(model, attack_models, data_loader):
     prediction_lists = []
-    feature_lists = []
+    attack_prediction_lists = []
+    # feature_lists = []
     label_lists = []
     for i, data_dict in tqdm(enumerate(data_loader), total=len(data_loader)):
         # get data
@@ -109,14 +111,19 @@ def test_one_dataset(model, data_loader):
             data_dict['landmark'] = landmark.to(device)
 
         # model forward without considering gradient computation
-        predictions = inference(model, data_dict)
+        predictions, attack_predictions = inference(model, attack_models, data_dict, label)
         label_lists += list(data_dict['label'].cpu().detach().numpy())
-        prediction_lists += list(predictions['prob'].cpu().detach().numpy())
-        feature_lists += list(predictions['feat'].cpu().detach().numpy())
+        predictions = torch.softmax(predictions, dim=1)[:, 1]
+        prediction_lists += list(predictions.cpu().detach().numpy())
+
+        attack_predictions = torch.softmax(attack_predictions, dim=1)[:, 1]
+        attack_prediction_lists += list(attack_predictions.cpu().detach().numpy())
+        # prediction_lists += list(predictions['prob'].cpu().detach().numpy())
+        # feature_lists += list(predictions['feat'].cpu().detach().numpy())
     
-    return np.array(prediction_lists), np.array(label_lists),np.array(feature_lists)
+    return np.array(prediction_lists), np.array(attack_prediction_lists), np.array(label_lists)#,np.array(feature_lists)
     
-def test_epoch(model, test_data_loaders):
+def test_epoch(model, attack_models, test_data_loaders):
     # set model to eval mode
     model.eval()
 
@@ -128,24 +135,66 @@ def test_epoch(model, test_data_loaders):
     for key in keys:
         data_dict = test_data_loaders[key].dataset.data_dict
         # compute loss for each dataset
-        predictions_nps, label_nps,feat_nps = test_one_dataset(model, test_data_loaders[key])
+        predictions_nps, attack_predictions_nps, label_nps = test_one_dataset(model, attack_models, test_data_loaders[key])
         
         # compute metric for each dataset
         metric_one_dataset = get_test_metrics(y_pred=predictions_nps, y_true=label_nps,
                                               img_names=data_dict['image'])
         metrics_all_datasets[key] = metric_one_dataset
-        
+
+        attack_metric_one_dataset = get_test_metrics(y_pred=attack_predictions_nps, y_true=label_nps,
+                                              img_names=data_dict['image'])
+
         # info for each dataset
         tqdm.write(f"dataset: {key}")
         for k, v in metric_one_dataset.items():
             tqdm.write(f"{k}: {v}")
 
+        # info for each dataset
+        tqdm.write(f"dataset: {key} after attack")
+        for k, v in attack_metric_one_dataset.items():
+            tqdm.write(f"{k}: {v}")
+
     return metrics_all_datasets
 
-@torch.no_grad()
-def inference(model, data_dict):
-    predictions = model(data_dict, inference=True)
-    return predictions
+# @torch.no_grad()
+def inference(model, attack_models, data_dict,label, attack = True ):
+    if attack == True:
+        attack_model = attack_models[0].eval()
+        attack = torchattacks.FGSM(attack_model, eps=8/255)
+        # print(f"Images before attack {data_dict['image'].shape}")
+        images = data_dict['image']
+        images.requires_grad = True
+        attacked_images = attack(images, label)
+        # data_dict['image'] = attacked_images
+        # print(f"After attack, image shape: {attacked_images.shape}")
+    predictions = model(images, inference=True)    
+    attack_predictions = model(attacked_images, inference=True)
+    return predictions, attack_predictions
+
+def get_attack_models(config):
+    model_names = [
+        {"xception":"./weights/xception_best.pth"},
+        # {"core":"./weights/core_best.pth"},
+        # {"efficientnetb4":"./weights/effnb4_best.pth"},
+        # {"ucf":"./weights/xception_best.pth"},
+        ]
+    models = []
+
+    for model_dict in model_names:
+        for model_name, model_weights in model_dict.items():  # Extract key-value pair
+            # Load the configuration file        # make_config
+            with open(f'./config/detector/{model_name}.yaml', 'r') as f:
+                config3 = yaml.safe_load(f)
+            config.update(config3)
+
+            model_class = DETECTOR[model_name]
+            model = model_class(config).to(device)
+            ckpt = torch.load(model_weights, map_location=device)
+            model.load_state_dict(ckpt, strict=True)
+            models.append(model)
+            print(f'===> Load checkpoint done for {model_name}!')
+    return models
 
 
 def main():
@@ -155,6 +204,7 @@ def main():
     with open('./config/test_config.yaml', 'r') as f:
         config2 = yaml.safe_load(f)
     config.update(config2)
+
     if 'label_dict' in config:
         config2['label_dict']=config['label_dict']
     weights_path = None
@@ -178,7 +228,8 @@ def main():
     # prepare the model (detector)
     print(f"Model name in test :{config['model_name']}")
     print(f'Detector keys: {DETECTOR.data.keys()}')
-    
+
+
     model_class = DETECTOR[config['model_name']]
     model = model_class(config).to(device)
     epoch = 0
@@ -193,8 +244,11 @@ def main():
     else:
         print('Fail to load the pre-trained weights')
     
+    # Attack models
+    attack_models = get_attack_models(config)
+
     # start testing
-    best_metric = test_epoch(model, test_data_loaders)
+    best_metric = test_epoch(model, attack_models, test_data_loaders)
     print('===> Test Done!')
 
 if __name__ == '__main__':
