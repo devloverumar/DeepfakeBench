@@ -81,8 +81,14 @@ class XceptionDetector(AbstractDetector):
         loss_func = loss_class()
         return loss_func
     
-    def features(self, data_dict: dict) -> torch.tensor:
-        return self.backbone.features(data_dict['image']) #32,3,256,256
+    def features(self, data_dict: torch.tensor) -> torch.tensor:
+        # if isinstance(data_dict, dict):
+        #     # Print the keys if it's a dictionary
+        #     print(f"data_dict is a dict. Keys: {list(data_dict.keys())}")
+        # elif hasattr(data_dict, 'shape'):
+        #     # Print the shape if it has the shape attribute
+        #     print(f"data_dict is a tensor-like object. Shape: {data_dict.shape}")
+        return self.backbone.features(data_dict) #32,3,256,256
 
     def classifier(self, features: torch.tensor) -> torch.tensor:
         return self.backbone.classifier(features)
@@ -105,7 +111,7 @@ class XceptionDetector(AbstractDetector):
         self.video_names = []
         return metric_batch_dict
 
-    def forward(self, data_dict: dict, inference=False) -> dict:
+    def forward(self, data_dict: torch.tensor, inference=False) -> torch.tensor:
         # get the features by backbone
         features = self.features(data_dict)
         # get the prediction by classifier
@@ -114,4 +120,4 @@ class XceptionDetector(AbstractDetector):
         prob = torch.softmax(pred, dim=1)[:, 1]
         # build the prediction dict for each output
         pred_dict = {'cls': pred, 'prob': prob, 'feat': features}
-        return pred_dict
+        return pred
