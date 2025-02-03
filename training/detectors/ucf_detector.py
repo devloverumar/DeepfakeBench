@@ -128,8 +128,8 @@ class UCFDetector(AbstractDetector):
         }
         return loss_func
     
-    def features(self, data_dict: dict) -> torch.tensor:
-        cat_data = data_dict['image']
+    def features(self, data_dict: torch.tensor) -> torch.tensor:
+        cat_data = data_dict
         # encoder
         f_all = self.encoder_f.features(cat_data)
         c_all = self.encoder_c.features(cat_data)
@@ -227,7 +227,7 @@ class UCFDetector(AbstractDetector):
         # we dont compute the video-level metrics for training
         return metric_batch_dict
 
-    def forward(self, data_dict: dict, inference=False) -> dict:
+    def forward(self, data_dict: torch.tensor, inference=True) -> dict:  # inference=False
         # split the features into the content and forgery
         features = self.features(data_dict)
         forgery_features, content_features = features['forgery'], features['content']
@@ -246,22 +246,22 @@ class UCFDetector(AbstractDetector):
                 .cpu()
                 .numpy()
             )
-            self.label.append(
-                data_dict['label']
-                .detach()
-                .squeeze()
-                .cpu()
-                .numpy()
-            )
-            # deal with acc
-            _, prediction_class = torch.max(out_sha, 1)
-            common_label = (data_dict['label'] >= 1)
-            correct = (prediction_class == common_label).sum().item()
-            self.correct += correct
-            self.total += data_dict['label'].size(0)
+            # self.label.append(
+            #     data_dict['label']
+            #     .detach()
+            #     .squeeze()
+            #     .cpu()
+            #     .numpy()
+            # )
+            # # deal with acc
+            # _, prediction_class = torch.max(out_sha, 1)
+            # common_label = (data_dict['label'] >= 1)
+            # correct = (prediction_class == common_label).sum().item()
+            # self.correct += correct
+            # self.total += data_dict['label'].size(0)
 
             pred_dict = {'cls': out_sha, 'prob': prob_sha, 'feat': sha_feat}
-            return  pred_dict
+            return out_sha
 
         bs = f_share.size(0)
         # using idx aug in the training mode
