@@ -78,8 +78,8 @@ class EfficientDetector(AbstractDetector):
         loss_func = loss_class()
         return loss_func
     
-    def features(self, data_dict: dict) -> torch.tensor:
-        x = self.backbone.features(data_dict['image'])
+    def features(self, data_dict: torch.tensor) -> torch.tensor:
+        x = self.backbone.features(data_dict)
         return x
 
     def classifier(self, features: torch.tensor) -> torch.tensor:
@@ -100,7 +100,7 @@ class EfficientDetector(AbstractDetector):
         metric_batch_dict = {'acc': acc, 'auc': auc, 'eer': eer, 'ap': ap}
         return metric_batch_dict
 
-    def forward(self, data_dict: dict, inference=False) -> dict:
+    def forward(self, data_dict: torch.tensor, inference=False) -> dict:
         # get the features by backbone
         features = self.features(data_dict)
         # get the prediction by classifier
@@ -110,5 +110,5 @@ class EfficientDetector(AbstractDetector):
         # build the prediction dict for each output
         pred_dict = {'cls': pred, 'prob': prob, 'feat': features}
 
-        return pred_dict
+        return pred
 
